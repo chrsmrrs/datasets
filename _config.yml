@@ -9,7 +9,7 @@ lang: en-US
 baseurl: "/datasets" # the subpath of your site, e.g. /blog/
 url: https://chrsmrrs.github.io/datasets # the base hostname & protocol for your site
 git_address: https://github.com/chrsmrrs/datasets
-git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
+git_edit_address: https://github.com/chrsmrrs/datasets/blob/gh-pages
 
 # theme options from https://bootswatch.com/3/
 # comment out this to use default Bootstrap
