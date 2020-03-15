@@ -41,15 +41,7 @@ defaults:
     sectionid: docs
     seo:
       type: "WebPage"
-defaults:
-- scope:
-    path: _contact
-    type: docs
-  values:
-    layout: doc
-    sectionid: contact
-    seo:
-      type: "WebPage"
+
 
 collections:
   docs:
