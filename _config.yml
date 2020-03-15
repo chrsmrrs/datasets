@@ -1,8 +1,9 @@
 # Site settings
-title: Datasets for graph classification and regression
+title: TUD Datasets
 email: christopher.morris@tu-dortmund.de
 description: >
-	     TU Dortmund datasets for graph classification.
+  Jekyll Template for Project Websites
+  providing documentation and blog post pages.
 lang: en-US
 
 baseurl: "/datasets" # the subpath of your site, e.g. /blog/
