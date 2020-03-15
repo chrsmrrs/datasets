@@ -52,10 +52,11 @@ defaults:
       type: "WebPage"
 
 
-collections:
+collections
   docs:
     permalink: /:collection/:path/
     output: true
-  posts:
-    permalink: /blog/:year/:month/:day/:title/
+  contact:
+    permalink: /:collection/:path/
     output: true
+
