@@ -33,12 +33,12 @@ exclude:
   - README.md
 timezone: Europe/Berlin
 defaults:
-- scope:
-    path: _posts
-    type: posts
-  values:
-    layout: post
-    sectionid: blog
+#- scope:
+#    path: _posts
+#    type: posts
+#  values:
+#    layout: post
+#    sectionid: blog
 
 - scope:
     path: _docs
