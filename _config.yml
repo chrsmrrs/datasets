@@ -41,21 +41,9 @@ defaults:
     seo:
       type: "WebPage"
 
-- scope:
-    path: _contact
-    type: docs
-  values:
-    layout: docs
-    sectionid: contact
-    seo:
-      type: "WebPage"
-
-
 collections
   docs:
     permalink: /:collection/:path/
     output: true
-  contact:
-    permalink: /:collection/:path/
-    output: true
+
 
