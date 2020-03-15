@@ -2,7 +2,7 @@
 title: Datasets for graph classification and regression
 email: christopher.morris@tu-dortmund.de
 description: >
-TU Dortmund datasets for graph classification.
+	     TU Dortmund datasets for graph classification.
 lang: en-US
 
 baseurl: "/datasets" # the subpath of your site, e.g. /blog/
