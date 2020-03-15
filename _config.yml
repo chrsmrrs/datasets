@@ -2,7 +2,8 @@
 title: TUD Datasets
 email: christopher.morris@tu-dortmund.de
 description: >
-  TU Dortmund Benchmark Datasets.
+  Jekyll Template for Project Websites
+  providing documentation and blog post pages.
 lang: en-US
 
 baseurl: "/datasets" # the subpath of your site, e.g. /blog/
@@ -33,6 +34,13 @@ exclude:
 timezone: Europe/Berlin
 defaults:
 - scope:
+    path: _posts
+    type: posts
+  values:
+    layout: post
+    sectionid: blog
+
+- scope:
     path: _docs
     type: docs
   values:
@@ -41,9 +49,10 @@ defaults:
     seo:
       type: "WebPage"
 
-collections
+collections:
   docs:
     permalink: /:collection/:path/
     output: true
-
-
+  posts:
+    permalink: /blog/:year/:month/:day/:title/
+    output: true
