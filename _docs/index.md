@@ -10,7 +10,6 @@ redirect_from: /docs/index.html
 
 ## News 
 
-```
 * 02.03.2020: Added three new data sets from [29].
 * 14.01.2020: Added twenty-four new data sets from [24].
 * 28.08.2019: Added twenty-two new data sets from [28].
@@ -24,10 +23,9 @@ redirect_from: /docs/index.html
 * 13.04.2016: Added SYNTHETICnew data set from [3,10].
 * 08.04.2016: Added six new data sets from [14].
 
-```
 
 
-testmfldsfjkdl;fkjsfl;sdjkfl;sdkfjl;kjf;dkf;ldsfksdl;fksdl;fsdkfl;dskfsd;lfkds
+
 
 [GitHub Pages](https://pages.github.com) can automatically generate and serve the website for you.
 Let's say you have a username/organisation `my-org` and project `my-proj`; if you locate Jekyll source under `docs` folder of master branch in your repo `github.com/my-org/my-proj`, the website will be served on `my-org.github.io/my-proj`.
