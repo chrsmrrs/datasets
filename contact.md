@@ -1,6 +1,3 @@
----
-title: Welcome
-permalink: /docs/home/
-redirect_from: /docs/index.html
----
+tt
 ### News
+5t5t5t5t5t5t5ttt
