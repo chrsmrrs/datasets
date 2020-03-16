@@ -19,7 +19,7 @@ markdown: kramdown
 highlighter: rouge
 # Plugins (previously gems:)
 plugins:
-#  - jekyll-feed
+  - jekyll-feed
   - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
@@ -38,8 +38,17 @@ defaults:
   values:
     layout: docs
     sectionid: docs
-#    seo:
-#      type: "WebPage"
+    seo:
+      type: "WebPage"
+
+- scope:
+    path: _contact
+    type: docs
+  values:
+    layout: docs
+    sectionid: contac
+    seo:
+      type: "WebPage"
 
 collections:
   docs:
