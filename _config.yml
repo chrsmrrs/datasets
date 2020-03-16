@@ -38,8 +38,8 @@ defaults:
   values:
     layout: docs
     sectionid: docs
-    seo:
-      type: "WebPage"
+#    seo:
+#      type: "WebPage"
 
 collections:
   docs:
