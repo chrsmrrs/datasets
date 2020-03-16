@@ -19,6 +19,12 @@ redirect_from: /docs/index.html
 * 08.04.2016: Added six new data sets from [14].
 
 
+
+---
+title: Datasets
+permalink: /docs/home/
+redirect_from: /docs/index.html
+---
 ## Datasets
 
 | Left-aligned | Center-aligned | Right-aligned |
@@ -50,3 +56,5 @@ There are optional files if the respective information is available:
 * DS_edge_attributes.txt (m lines; same size as DS_A.txt): attributes for the edges in DS_A.txt
 * DS_node_attributes.txt (n lines): matrix of node attributes, the comma seperated values in the i-th line is the attribute vector of the node with node_id i
 * DS_graph_attributes.txt (N lines): regression values for all graphs in the data set, the value in the i-th line is the attribute of the graph with graph_id i
+
+
