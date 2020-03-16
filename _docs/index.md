@@ -3,12 +3,7 @@ title: Welcome
 permalink: /docs/home/
 redirect_from: /docs/index.html
 ---
-
-
-
-
-
-## News 
+## News
 
 * 02.03.2020: Added three new data sets from [29].
 * 14.01.2020: Added twenty-four new data sets from [24].
@@ -24,7 +19,12 @@ redirect_from: /docs/index.html
 * 08.04.2016: Added six new data sets from [14].
 
 
+## Datasets
 
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
 
 
 [GitHub Pages](https://pages.github.com) can automatically generate and serve the website for you.
