@@ -3,7 +3,7 @@ title: Welcome
 permalink: /docs/home/
 redirect_from: /docs/index.html
 ---
-## News
+### News
 
 * 02.03.2020: Added three new data sets from [29].
 * 14.01.2020: Added twenty-four new data sets from [24].
@@ -25,7 +25,7 @@ title: Datasets
 permalink: /docs/home/
 redirect_from: /docs/index.html
 ---
-## Datasets
+### Datasets
 
 | Left-aligned | Center-aligned | Right-aligned |
 | :---         |     :---:      |          ---: |
@@ -35,7 +35,7 @@ redirect_from: /docs/index.html
 
 R(N) are regression datasets with N tasks per graph.
 
-## File Format
+### File Format
 
 The data sets have the following format (replace `DS` by the name of the data set):
 
@@ -57,4 +57,25 @@ There are optional files if the respective information is available:
 * `DS_node_attributes.txt` (`n` lines): matrix of node attributes, the comma seperated values in the i-th line is the attribute vector of the node with `node_id i`
 * `DS_graph_attributes.txt` (`N` lines): regression values for all graphs in the data set, the value in the i-th line is the attribute of the graph with `graph_id i`
 
+### Deep Learning Libraries
+The datasets can also be accessed using PyTorch Geometric and the Deep Graph Library.
 
+Edit
+Citing this Website
+We encourage you to refer to our website at http://graphkernels.cs.tu-dortmund.de if you have used the data sets for your publication. Please use the following BibTeX citation:
+
+@misc{KKMMN2016,
+  title  = {Benchmark Data Sets for Graph Kernels},
+  author = {Kristian Kersting and Nils M. Kriege and Christopher Morris and Petra Mutzel and Marion Neumann},
+  year   = {2016},
+  url    = {http://graphkernels.cs.tu-dortmund.de}
+}
+If your bibliography style does not support the url field, you may use this alternative:
+
+@misc{KKMMN2016,
+  title  = {Benchmark Data Sets for Graph Kernels},
+  author = {Kristian Kersting and Nils M. Kriege and Christopher Morris and Petra Mutzel and Marion Neumann},
+  year   = {2016},
+  note   = {\url{http://graphkernels.cs.tu-dortmund.de}}
+}
+Edit
