@@ -19,22 +19,6 @@ redirect_from: /docs/index.html
 * 08.04.2016: Added six new data sets from [14].
 
 
-
-### Datasets
-
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
-
-
-R(N) are regression datasets with N tasks per graph.
-
-### File Format
-
-### Deep Learning Libraries
-The datasets can also be accessed using PyTorch Geometric and the Deep Graph Library.
-
 #### Citing this Website
 We encourage you to refer to our website at https://chrsmrrs.github.io/datasets/docs/home/ if you have used the data sets for your publication. Please use the following BibTeX citation:
 
