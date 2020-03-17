@@ -4,9 +4,9 @@ permalink: /docs/datasets/
 ---
 
 
-| **Name** | **Source** | **Statistics** |----------------|------------------| **Labels/Attributes** |---------------------------|---------------------------| **Download (ZIP)** |
+| **Name** | **Source** | **Statistics** ||| **Labels/Attributes** ||| **Download (ZIP)** |
 | ------- | -------------------- | ---------------------------- |--------------------|--------------------------| -------------------------- |------------------------------|-----------------------| ----------------------------- |
-|         |          |*Num. of Graphs*|*Num. of Classes*|*Avg. Number of Nodes*|*Avg. Number of Edges*|*Node Labels*|*Edge Labels*|*Node Attr. (Dim.)*|*Edge Attr. (Dim.)*|
+|         |          |*Graphs*|*Classes*|*Avg. Nodes*|*Avg. Edges*|*Node Labels*|*Edge Labels*|*Node Attr. *|*Edge Attr.*|
 | ----------------------- | ----------------- | --------------------------- |------------------|------------------------|-------------------------------- |-------------------|---------------------| ----------------------------- |
 |AIDS|[16,17]| 2000 |2|15.69|16.20|+|+|+ (4)|--|[AIDS](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/AIDS.zip)|
 |alchemy_dev|[29]| 99776 |R (12)|9.71|10.02|+|+|--|--|[alchemy_dev](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/alchemy_dev.zip)|
