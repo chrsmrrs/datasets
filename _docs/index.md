@@ -3,7 +3,7 @@ title: Welcome
 permalink: /docs/home/
 redirect_from: /docs/index.html
 ---
-### News
+## News
 
 * 02.03.2020: Added three new data sets from [29].
 * 14.01.2020: Added twenty-four new data sets from [24].
@@ -19,7 +19,7 @@ redirect_from: /docs/index.html
 * 08.04.2016: Added six new data sets from [14].
 
 
-#### Citing this Website
+## Citing this Website
 We encourage you to refer to our website at https://chrsmrrs.github.io/datasets/docs/home/ if you have used the data sets for your publication. Please use the following BibTeX citation:
 
 ```
