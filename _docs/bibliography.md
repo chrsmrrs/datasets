@@ -2,9 +2,6 @@
 title: Bibliography
 permalink: /docs/bibliography/
 ---
-
-### Bibliography
-
 [1] Debnath, A.K., Lopez de Compadre, R.L., Debnath, G., Shusterman, A.J., and Hansch, C. Structure-activity relationship of mutagenic aromatic and heteroaromatic nitro compounds. Correlation with molecular orbital energies and hydrophobicity. J. Med. Chem. 34(2):786-797 (1991).
 
 [2] Helma, C., King, R. D., Kramer, S., and Srinivasan, A. The Predictive Toxicology Challenge 2000–2001. Bioinformatics, 2001, 17, 107-108. URL: www.predictive-toxicology.org/ptc
