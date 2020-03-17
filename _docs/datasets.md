@@ -118,7 +118,7 @@ permalink: /docs/datasets/
 |Yeast|[28]| 79601 |2|21.54| 22.84 |+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Yeast.zip)|
 |YeastH|[28]| 79601 |2|39.44| 40.74 |+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/YeastH.zip)|
 | -------- | ---------- | -------------- ||| --------------------- ||| ------------------ |
-**All Data Sets** | |||||||||[[https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/DS_all.zip|DS_all]]|
+**All Data Sets** | |||||||||[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/DS_all.zip)|
 | -------- | ---------- | -------------- ||| --------------------- ||| ------------------ |
 
 
