@@ -8,9 +8,9 @@ permalink: /docs/datasets/
 | - | - | - |-|-| - |-|-| - |
 |         |          |*Graphs*|*Classes*|*Avg. Nodes*|*Avg. Edges*|*Node Labels*|*Edge Labels*|*Node Attr.*|*Edge Attr.*|
 | - | - | - |-|-|- |-|-| - |
-|AIDS|[16,17]| 2000 |2|15.69|16.20|+|+|+ (4)|--|[AIDS](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/AIDS.zip)|
-|alchemy_dev|[29]| 99776 |R (12)|9.71|10.02|+|+|--|--|[alchemy_dev](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/alchemy_dev.zip)|
-|alchemy_test|[29]| 15760 |--|11.25|11.76|+|+|--|--|[alchemy_test](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/alchemy_test.zip)|
+|**AIDS**|[16,17]| 2000 |2|15.69|16.20|+|+|+ (4)|--|[AIDS](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/AIDS.zip)|
+|**alchemy_dev**|[29]| 99776 |R (12)|9.71|10.02|+|+|--|--|[alchemy_dev](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/alchemy_dev.zip)|
+|**alchemy_test**|[29]| 15760 |--|11.25|11.76|+|+|--|--|[alchemy_test](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/alchemy_test.zip)|
 |alchemy_valid|[29]| 3951 |R (12)|11.25        |11.77      |+|+|--|--|[alchemy_valid](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/alchemy_valid.zip)|
 |BZR|[7]| 405 |2|35.75|38.36|+|--|+ (3)|--|[BZR](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/BZR.zip)|
 |BZR_MD|[7,23]| 306 |2|21.30|225.06|+|+|--|+ (1)|[BZR_MD](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/BZR_MD.zip)|
