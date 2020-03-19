@@ -26,8 +26,8 @@ We encourage you to refer to our website at https://chrsmrrs.github.io/datasets/
 @misc{KKMMN2016,
   title  = {Benchmark Data Sets for Graph Kernels},
   author = {Kristian Kersting and Nils M. Kriege and Christopher Morris and Petra Mutzel and Marion Neumann},
-  year   = {2016},
-  url    = {http://graphkernels.cs.tu-dortmund.de}
+  year   = {2020},
+  url    = {https://chrsmrrs.github.io/datasets/}
 }
 ```
 
@@ -37,8 +37,8 @@ If your bibliography style does not support the url field, you may use this alte
 @misc{KKMMN2016,
   title  = {Benchmark Data Sets for Graph Kernels},
   author = {Kristian Kersting and Nils M. Kriege and Christopher Morris and Petra Mutzel and Marion Neumann},
-  year   = {2016},
-  note   = {\url{http://graphkernels.cs.tu-dortmund.de}}
+  year   = {2020},
+  note   = {https://chrsmrrs.github.io/datasets/}
 }
 ```
 
