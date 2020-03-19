@@ -38,34 +38,34 @@ permalink: /docs/datasets/
 |Letter-med|[16]| 2250 |15| 4.67 |4.50 |--|--|+ (2)|--|[Letter-med](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Letter-med.zip)|
 |MCF-7|[28]| 27770 |2|26.39| 28.52 |+|+|--|--|[MCF-7](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/MCF-7.zip)|
 |MCF-7H|[28]| 27770 |2|47.30| 49.43 |+|+|--|--|[MCF-7H](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/MCF-7H.zip)|
-|MOLT-4|[28]| 39765 |2|26.09| 28.13 |+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/MOLT-4.zip)|
-|MOLT-4H|[28]| 39765 |2|46.70| 48.73 |+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/MOLT-4H.zip)|
-|Mutagenicity|[16,20]| 4337 |2| 30.32 | 30.77 |+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Mutagenicity.zip)|
-|MSRC_9|[13]| 221 |8|40.58| 97.94 |+|--|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/MSRC_9.zip)|
-|MSRC_21|[13]| 563 |20|77.52|198.32|+|--|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/MSRC_21.zip)|
-|MSRC_21C|[13]| 209 |20|40.28 | 96.60|+|--|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/MSRC_21C.zip)|
-|MUTAG|[1,23]| 188 |2|17.93|19.79|+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/MUTAG.zip)|
-|NCI1|[8,9,22]| 4110 |2|29.87|32.30|+|--|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/NCI1.zip)|
-|NCI109|[8,9,22]| 4127 |2|29.68| 32.13 |+|--|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/NCI109.zip)|
-|NCI-H23|[28]| 40353 |2|26.07| 28.10 |+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/NCI-H23.zip-H23)|
-|NCI-H23H|[28]| 40353 |2|46.67| 48.69 |+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/NCI-H23H.zip-H23H)|
-|OHSU|[26]|79|2 |82.01|199.66|+|--|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/OHSU.zip)|
-|OVCAR-8|[28]| 40516 |2|26.07| 28.10 |+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/OVCAR-8.zip-8)|
-|OVCAR-8H|[28]| 40516 |2|46.67| 48.70 |+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/OVCAR-8H.zip-8H)|
-|P388|[28]| 41472 |2|22.11| 23.55 |+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/P388.zip)|
-|P388H|[28]| 41472 |2|40.44| 41.88 |+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/P388H.zip)|
-|PC-3|[28]| 27509 |2|26.35| 28.49 |+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/PC-3.zip)|
-|PC-3H|[28]| 27509 |2|47.19| 49.32 |+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/PC-3H.zip)|
-|Peking_1|[26]|85|2 |39.31|77.35|+|--|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Peking_1.zip)|
-|PTC_FM|[2,23]| 349 |2|14.11|14.48|+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/PTC_FM.zip)|
-|PTC_FR|[2,23]| 351 |2|14.56| 15.00|+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/PTC_FR.zip)|
-|PTC_MM|[2,23]| 336 |2|13.97 | 14.32|+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/PTC_MM.zip)|
-|PTC_MR|[2,23]| 344 |2|14.29| 14.69|+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/PTC_MR.zip)|
-|PROTEINS|[4,6]| 1113 |2|39.06|72.82|+|--|+ (1)|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/PROTEINS.zip)|
-|PROTEINS_full|[4,6]| 1113 |2|39.06|72.82|+|--|+ (29)|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/PROTEINS_full.zip)|
-|REDDIT-BINARY|[14]| 2000 |2| 429.63| 497.75 |--|--|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/REDDIT-BINARY.zip)|
-|REDDIT-MULTI-5K|[14]| 4999 | 5 |508.52 | 594.87 |--|--|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/REDDIT-MULTI-5K.zip)|
-|REDDIT-MULTI-12K|[14]| 11929 | 11 | 391.41 | 456.89 |--|--|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/REDDIT-MULTI-12K.zip)|
+|MOLT-4|[28]| 39765 |2|26.09| 28.13 |+|+|--|--|[MOLT-4](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/MOLT-4.zip)|
+|MOLT-4H|[28]| 39765 |2|46.70| 48.73 |+|+|--|--|[MOLT-4H](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/MOLT-4H.zip)|
+|Mutagenicity|[16,20]| 4337 |2| 30.32 | 30.77 |+|+|--|--|[Mutagenicity](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Mutagenicity.zip)|
+|MSRC_9|[13]| 221 |8|40.58| 97.94 |+|--|--|--|[MSRC_9](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/MSRC_9.zip)|
+|MSRC_21|[13]| 563 |20|77.52|198.32|+|--|--|--|[MSRC_21](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/MSRC_21.zip)|
+|MSRC_21C|[13]| 209 |20|40.28 | 96.60|+|--|--|--|[MSRC_21C](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/MSRC_21C.zip)|
+|MUTAG|[1,23]| 188 |2|17.93|19.79|+|+|--|--|[MUTAG](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/MUTAG.zip)|
+|NCI1|[8,9,22]| 4110 |2|29.87|32.30|+|--|--|--|[NCI1](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/NCI1.zip)|
+|NCI109|[8,9,22]| 4127 |2|29.68| 32.13 |+|--|--|--|[NCI109](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/NCI109.zip)|
+|NCI-H23|[28]| 40353 |2|26.07| 28.10 |+|+|--|--|[NCI-H23](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/NCI-H23.zip-H23)|
+|NCI-H23H|[28]| 40353 |2|46.67| 48.69 |+|+|--|--|[NCI-H23H](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/NCI-H23H.zip-H23H)|
+|OHSU|[26]|79|2 |82.01|199.66|+|--|--|--|[OHSU](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/OHSU.zip)|
+|OVCAR-8|[28]| 40516 |2|26.07| 28.10 |+|+|--|--|[OVCAR-8](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/OVCAR-8.zip-8)|
+|OVCAR-8H|[28]| 40516 |2|46.67| 48.70 |+|+|--|--|[OVCAR-8H](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/OVCAR-8H.zip-8H)|
+|P388|[28]| 41472 |2|22.11| 23.55 |+|+|--|--|[P388](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/P388.zip)|
+|P388H|[28]| 41472 |2|40.44| 41.88 |+|+|--|--|[P388H](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/P388H.zip)|
+|PC-3|[28]| 27509 |2|26.35| 28.49 |+|+|--|--|[PC-3](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/PC-3.zip)|
+|PC-3H|[28]| 27509 |2|47.19| 49.32 |+|+|--|--|[PC-3H](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/PC-3H.zip)|
+|Peking_1|[26]|85|2 |39.31|77.35|+|--|--|--|[Peking_1](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Peking_1.zip)|
+|PTC_FM|[2,23]| 349 |2|14.11|14.48|+|+|--|--|[PTC_FM](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/PTC_FM.zip)|
+|PTC_FR|[2,23]| 351 |2|14.56| 15.00|+|+|--|--|[PTC_FR](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/PTC_FR.zip)|
+|PTC_MM|[2,23]| 336 |2|13.97 | 14.32|+|+|--|--|[PTC_MM](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/PTC_MM.zip)|
+|PTC_MR|[2,23]| 344 |2|14.29| 14.69|+|+|--|--|[PTC_MR](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/PTC_MR.zip)|
+|PROTEINS|[4,6]| 1113 |2|39.06|72.82|+|--|+ (1)|--|[PROTEINS](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/PROTEINS.zip)|
+|PROTEINS_full|[4,6]| 1113 |2|39.06|72.82|+|--|+ (29)|--|[PROTEINS_full](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/PROTEINS_full.zip)|
+|REDDIT-BINARY|[14]| 2000 |2| 429.63| 497.75 |--|--|--|--|[REDDIT-BINARY](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/REDDIT-BINARY.zip)|
+|REDDIT-MULTI-5K|[14]| 4999 | 5 |508.52 | 594.87 |--|--|--|--|[REDDIT-MULTI-5K](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/REDDIT-MULTI-5K.zip)|
+|REDDIT-MULTI-12K|[14]| 11929 | 11 | 391.41 | 456.89 |--|--|--|--|[REDDIT-MULTI-12K](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/REDDIT-MULTI-12K.zip)|
 |SF-295|[28]| 40271 |2|26.06| 28.08 |+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/SF-295.zip)|
 |SF-295H|[28]| 40271 |2|46.65| 48.68 |+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/SF-295H.zip)|
 |SN12C|[28]| 40004 |2|26.08| 28.11 |+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/SN12C.zip)|
