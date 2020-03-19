@@ -4,8 +4,8 @@ permalink: /docs/datasets/
 ---
 
 
-| **Name** | **Source** | **Statistics** ||| **Labels/Attributes** |||| **Download (ZIP)** |
-| - | - | - |-|-| - |-|-------------------------------| - |
+| **Name** | **Source** | **Statistics** ||| **Labels/Attributes** ||||| **Download (ZIP)** |
+| - | - | - |-|-| - |-|--| - |
 |         |          |*Graphs*|*Classes*|*Avg. Nodes*|*Avg. Edges*|*Node Labels*|*Edge Labels*|*Node Attr.*|*Edge Attr.*|
 | - | - | - |-|-|- |-|-| - |
 |**AIDS**|[16,17]| 2000 |2|15.69|16.20|+|+|+ (4)|--|[AIDS](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/AIDS.zip)|
