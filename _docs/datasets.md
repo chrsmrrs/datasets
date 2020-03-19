@@ -96,29 +96,29 @@ permalink: /docs/datasets/
 |Tox21_ER_training|[24]|7697|2 |17.58|17.94|+|+|--|--|[Tox21_ER_training](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_ER_training.zip)|
 |Tox21_ER_testing|[24]|265|2 |22.16|23.13|+|+|--|--|[Tox21_ER_testing](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_ER_testing.zip)|
 |Tox21_ER_evaluation|[24]|515|2 |17.66|18.10|+|+|--|--|[Tox21_ER_evaluation](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_ER_evaluation.zip)|
-|Tox21_ER-LBD_training|[24]|8753|2 |18.06|18.47|+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_ER-LBD_training.zip)|
-|Tox21_ER-LBD_testing|[24]|287|2 |22.28|23.23|+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_ER-LBD_testing.zip)|
-|Tox21_ER-LBD_evaluation|[24]|599|2 |17.75|18.17|+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_ER-LBD_evaluation.zip)|
-|Tox21_HSE_training|[24]|8150|2 |16.72|17.04|+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_HSE_training.zip)|
-|Tox21_HSE_testing|[24]|267|2 |22.07|23.00|+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_HSE_testing.zip)|
-|Tox21_HSE_evaluation|[24]|607|2 |17.61|18.01|+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_HSE_evaluation.zip)|
-|Tox21_MMP_training|[24]|7320|2 |17.49|17.83|+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_MMP_training.zip)|
-|Tox21_MMP_testing|[24]|238|2 |21.68|22.55|+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_MMP_testing.zip)|
-|Tox21_MMP_evaluation|[24]|541|2 |16.67|16.88|+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_MMP_evaluation.zip)|
-|Tox21_p53_training|[24]|8634|2 |17.79|18.19|+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_p53_training.zip)|
-|Tox21_p53_testing|[24]|269|2 |22.14|23.04|+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_p53_testing.zip)|
-|Tox21_p53_evaluation|[24]|613|2 |17.34|17.72|+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_p53_evaluation.zip)|
-|Tox21_PPAR-gamma_training|[24]|8184|2 |17.23|17.55|+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_PPAR-gamma_training.zip)|
-|Tox21_PPAR-gamma_testing|[24]|267|2 |22.04|22.93|+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_PPAR-gamma_testing.zip)|
-|Tox21_PPAR-gamma_evaluation|[24]|602|2 |17.38|17.77|+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_PPAR-gamma_evaluation.zip)|
-|TRIANGLES|[27]|45000|10|20.85|32.74|--|--|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/TRIANGLES.zip)|
-|TWITTER-Real-Graph-Partial|[26]|144033|2 |4.03|4.98|+|--|--|+ (1)|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/TWITTER-Real-Graph-Partial.zip)|
-|UACC257|[28]| 39988 |2|26.09| 28.12 |+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/UACC257.zip)|
-|UACC257H|[28]| 39988 |2|46.68| 48.71 |+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/UACC257H.zip)|
-|Yeast|[28]| 79601 |2|21.54| 22.84 |+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Yeast.zip)|
-|YeastH|[28]| 79601 |2|39.44| 40.74 |+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/YeastH.zip)|
+|Tox21_ER-LBD_training|[24]|8753|2 |18.06|18.47|+|+|--|--|[Tox21_ER-LBD_training](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_ER-LBD_training.zip)|
+|Tox21_ER-LBD_testing|[24]|287|2 |22.28|23.23|+|+|--|--|[Tox21_ER-LBD_testing](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_ER-LBD_testing.zip)|
+|Tox21_ER-LBD_evaluation|[24]|599|2 |17.75|18.17|+|+|--|--|][Tox21_ER-LBD_evaluation(https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_ER-LBD_evaluation.zip)|
+|Tox21_HSE_training|[24]|8150|2 |16.72|17.04|+|+|--|--|[Tox21_HSE_training](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_HSE_training.zip)|
+|Tox21_HSE_testing|[24]|267|2 |22.07|23.00|+|+|--|--|[Tox21_HSE_testing](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_HSE_testing.zip)|
+|Tox21_HSE_evaluation|[24]|607|2 |17.61|18.01|+|+|--|--|[Tox21_HSE_evaluation](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_HSE_evaluation.zip)|
+|Tox21_MMP_training|[24]|7320|2 |17.49|17.83|+|+|--|--|[Tox21_MMP_training](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_MMP_training.zip)|
+|Tox21_MMP_testing|[24]|238|2 |21.68|22.55|+|+|--|--|[Tox21_MMP_testing](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_MMP_testing.zip)|
+|Tox21_MMP_evaluation|[24]|541|2 |16.67|16.88|+|+|--|--|[Tox21_MMP_evaluation](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_MMP_evaluation.zip)|
+|Tox21_p53_training|[24]|8634|2 |17.79|18.19|+|+|--|--|[Tox21_p53_training](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_p53_training.zip)|
+|Tox21_p53_testing|[24]|269|2 |22.14|23.04|+|+|--|--|[Tox21_p53_testing](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_p53_testing.zip)|
+|Tox21_p53_evaluation|[24]|613|2 |17.34|17.72|+|+|--|--|[Tox21_p53_evaluation](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_p53_evaluation.zip)|
+|Tox21_PPAR-gamma_training|[24]|8184|2 |17.23|17.55|+|+|--|--|[Tox21_PPAR-gamma_training](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_PPAR-gamma_training.zip)|
+|Tox21_PPAR-gamma_testing|[24]|267|2 |22.04|22.93|+|+|--|--|[Tox21_PPAR-gamma_testing](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_PPAR-gamma_testing.zip)|
+|Tox21_PPAR-gamma_evaluation|[24]|602|2 |17.38|17.77|+|+|--|--|[Tox21_PPAR-gamma_evaluation](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_PPAR-gamma_evaluation.zip)|
+|TRIANGLES|[27]|45000|10|20.85|32.74|--|--|--|--|[TRIANGLES](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/TRIANGLES.zip)|
+|TWITTER-Real-Graph-Partial|[26]|144033|2 |4.03|4.98|+|--|--|+ (1)|[TWITTER-Real-Graph-Partial](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/TWITTER-Real-Graph-Partial.zip)|
+|UACC257|[28]| 39988 |2|26.09| 28.12 |+|+|--|--|[UACC257](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/UACC257.zip)|
+|UACC257H|[28]| 39988 |2|46.68| 48.71 |+|+|--|--|[UACC257H](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/UACC257H.zip)|
+|Yeast|[28]| 79601 |2|21.54| 22.84 |+|+|--|--|[Yeast](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Yeast.zip)|
+|YeastH|[28]| 79601 |2|39.44| 40.74 |+|+|--|--|[YeastH](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/YeastH.zip)|
 | -------- | ---------- | -------------- ||| --------------------- ||| ------------------ |
-**All Data Sets** | |||||||||[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/DS_all.zip)|
+**All Data Sets** | |||||||||[All](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/DS_all.zip)|
 | -------- | ---------- | -------------- ||| --------------------- ||| ------------------ |
 
 
