@@ -66,24 +66,24 @@ permalink: /docs/datasets/
 |REDDIT-BINARY|[14]| 2000 |2| 429.63| 497.75 |--|--|--|--|[REDDIT-BINARY](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/REDDIT-BINARY.zip)|
 |REDDIT-MULTI-5K|[14]| 4999 | 5 |508.52 | 594.87 |--|--|--|--|[REDDIT-MULTI-5K](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/REDDIT-MULTI-5K.zip)|
 |REDDIT-MULTI-12K|[14]| 11929 | 11 | 391.41 | 456.89 |--|--|--|--|[REDDIT-MULTI-12K](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/REDDIT-MULTI-12K.zip)|
-|SF-295|[28]| 40271 |2|26.06| 28.08 |+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/SF-295.zip)|
-|SF-295H|[28]| 40271 |2|46.65| 48.68 |+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/SF-295H.zip)|
-|SN12C|[28]| 40004 |2|26.08| 28.11 |+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/SN12C.zip)|
-|SN12CH|[28]| 40004 |2|46.69| 48.71 |+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/SN12CH.zip)|
-|SW-620|[28]| 40532 |2|26.05| 28.08 |+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/SW-620.zip)|
-|SW-620H|[28]| 40532 |2|46.62| 48.65 |+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/SW-620H.zip)|
-|SYNTHETIC|[3]| 300 |2|100.00| 196.00|--|--|+ (1)|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/SYNTHETIC.zip)|
-|SYNTHETICnew|[3,10]| 300 |2|100.00| 196.25|--|--|+ (1)|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/SYNTHETICnew.zip)|
-|Synthie|[21]| 400 |4|95.00| 172.93|--|--|+ (15)|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Synthie.zip)|
-|Tox21_AhR_training|[24]|8169|2 |18.09|18.50|+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_AhR_training.zip)|
-|Tox21_AhR_testing|[24]|272|2 |22.13|23.05|+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_AhR_testing.zip)|
-|Tox21_AhR_evaluation|[24]|607|2 |17.64|18.06|+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_AhR_evaluation.zip)|
-|Tox21_AR_training|[24]|9362|2 |18.39|18.84|+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_AR_training.zip)|
-|Tox21_AR_testing|[24]|292|2 |22.35|23.32|+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_AR_testing.zip)|
-|Tox21_AR_evaluation|[24]|585|2 |17.99|18.45|+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_AR_evaluation.zip)|
-|Tox21_AR-LBD_training|[24]|8599|2 |17.77|18.16|+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_AR-LBD_training.zip)|
-|Tox21_AR-LBD_testing|[24]|253|2 |21.85|22.73|+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_AR-LBD_testing.zip)|
-|Tox21_AR-LBD_evaluation|[24]|580|2 |17.09|17.42|+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_AR-LBD_evaluation.zip)|
+|SF-295|[28]| 40271 |2|26.06| 28.08 |+|+|--|--|[SF-295](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/SF-295.zip)|
+|SF-295H|[28]| 40271 |2|46.65| 48.68 |+|+|--|--|[SF-295H](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/SF-295H.zip)|
+|SN12C|[28]| 40004 |2|26.08| 28.11 |+|+|--|--|[SN12C](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/SN12C.zip)|
+|SN12CH|[28]| 40004 |2|46.69| 48.71 |+|+|--|--|[SN12CH](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/SN12CH.zip)|
+|SW-620|[28]| 40532 |2|26.05| 28.08 |+|+|--|--|[SW-620](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/SW-620.zip)|
+|SW-620H|[28]| 40532 |2|46.62| 48.65 |+|+|--|--|[SW-620H](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/SW-620H.zip)|
+|SYNTHETIC|[3]| 300 |2|100.00| 196.00|--|--|+ (1)|--|[SYNTHETIC](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/SYNTHETIC.zip)|
+|SYNTHETICnew|[3,10]| 300 |2|100.00| 196.25|--|--|+ (1)|--|[SYNTHETICnew](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/SYNTHETICnew.zip)|
+|Synthie|[21]| 400 |4|95.00| 172.93|--|--|+ (15)|--|[Synthie](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Synthie.zip)|
+|Tox21_AhR_training|[24]|8169|2 |18.09|18.50|+|+|--|--|[Tox21_AhR_training](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_AhR_training.zip)|
+|Tox21_AhR_testing|[24]|272|2 |22.13|23.05|+|+|--|--|[Tox21_AhR_testing](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_AhR_testing.zip)|
+|Tox21_AhR_evaluation|[24]|607|2 |17.64|18.06|+|+|--|--|[Tox21_AhR_evaluation](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_AhR_evaluation.zip)|
+|Tox21_AR_training|[24]|9362|2 |18.39|18.84|+|+|--|--|[Tox21_AR_training](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_AR_training.zip)|
+|Tox21_AR_testing|[24]|292|2 |22.35|23.32|+|+|--|--|[Tox21_AR_testing](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_AR_testing.zip)|
+|Tox21_AR_evaluation|[24]|585|2 |17.99|18.45|+|+|--|--|[Tox21_AR_evaluation](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_AR_evaluation.zip)|
+|Tox21_AR-LBD_training|[24]|8599|2 |17.77|18.16|+|+|--|--|[Tox21_AR_training](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_AR-LBD_training.zip)|
+|Tox21_AR-LBD_testing|[24]|253|2 |21.85|22.73|+|+|--|--|[Tox21_AR-LBD_testing](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_AR-LBD_testing.zip)|
+|Tox21_AR-LBD_evaluation|[24]|580|2 |17.09|17.42|+|+|--|--|[Tox21_AR-LBD_evaluation](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_AR-LBD_evaluation.zip)|
 |Tox21_ARE_training|[24]|7167|2 |16.28|16.52|+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_ARE_training.zip)|
 |Tox21_ARE_testing|[24]|234|2 |21.99|22.91|+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_ARE_testing.zip)|
 |Tox21_ARE_evaluation|[24]|552|2 |17.01|17.33|+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_ARE_evaluation.zip)|
