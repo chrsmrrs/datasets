@@ -4,7 +4,7 @@ permalink: /docs/datasets/
 ---
 
 
-| **Name** | **Source** | **Statistics** ||| **Labels/Attributes** ||| **Download (ZIP)** |
+| **Name** | **Source** | **Statistics** ||| **Labels/Attributes** |||| **Download (ZIP)** |
 | - | - | - |-|-| - |-|-------------------------------| - |
 |         |          |*Graphs*|*Classes*|*Avg. Nodes*|*Avg. Edges*|*Node Labels*|*Edge Labels*|*Node Attr.*|*Edge Attr.*|
 | - | - | - |-|-|- |-|-| - |
