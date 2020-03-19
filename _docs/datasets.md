@@ -12,23 +12,23 @@ permalink: /docs/datasets/
 |alchemy_dev|[29]| 99776 |R (12)|9.71|10.02|+|+|--|--|[alchemy_dev](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/alchemy_dev.zip)|
 |alchemy_test|[29]| 15760 |--|11.25|11.76|+|+|--|--|[alchemy_test](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/alchemy_test.zip)|
 |alchemy_valid|[29]| 3951 |R (12)|11.25        |11.77      |+|+|--|--|[alchemy_valid](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/alchemy_valid.zip)|
-|BZR|[7]| 405 |2|35.75|38.36|+|--|+ (3)|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/BZR.zip)|
-|BZR_MD|[7,23]| 306 |2|21.30|225.06|+|+|--|+ (1)|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/BZR_MD.zip)|
-|COIL-DEL|[16,18]| 3900 |100| 21.54 | 54.24 |--|+|+ (2)|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/COIL-DEL.zip)|
-|COIL-RAG|[16,18]| 3900 |100| 3.01 | 3.02 |--|--|+ (64)|+ (1)|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/COIL-RAG.zip)|
-|COLLAB|[14]| 5000 |3|74.49 | 2457.78|--|--|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/COLLAB.zip)|
-|COLORS-3|[27]|10500|11|61.31|91.03|--|--|+ (4)|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/COLORS-3.zip)|
-|COX2|[7]| 467 |2|41.22 |43.45|+|--|+ (3)|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/COX2.zip)|
-|COX2_MD|[7,23]| 303 |2|26.28|335.12|+|+|--|+ (1)|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/COX2_MD.zip)|
-|Cuneiform|[25]| 267 |30|21.27|44.80|+|+|+ (3)|+ (2)|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Cuneiform.zip)|
-|DBLP_v1|[26]|19456|2 |10.48|19.65|+|+|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/DBLP_v1.zip)|
-|DHFR|[7]| 467 |2|42.43|44.54|+|--|+ (3)|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/DHFR.zip)|
-|DHFR_MD|[7,23]| 393 |2|23.87| 283.01|+|+|--|+ (1)|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/DHFR_MD.zip)|
-|ER_MD|[7,23]| 446 |2| 21.33| 234.85 | +|+|--|+ (1)|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/ER_MD.zip)|
-|DD|[6,22]| 1178 |2|284.32| 715.66|+|--|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/DD.zip)|
-|ENZYMES|[4,5]| 600 |6|32.63 | 62.14|+|--|+ (18)|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/ENZYMES.zip)|
-|Fingerprint|[16,19]| 2800 |4|5.42 | 4.42|--|--|+ (2)|+ (2)|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Fingerprint.zip)|
-|FIRSTMM_DB|[11,12,13]| 41 |11|1377.27| 3074.10|+|--|+ (1) |+ (2)|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/FIRSTMM_DB.zip)|
+|BZR|[7]| 405 |2|35.75|38.36|+|--|+ (3)|--|[BZR](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/BZR.zip)|
+|BZR_MD|[7,23]| 306 |2|21.30|225.06|+|+|--|+ (1)|[|BZR_MD](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/BZR_MD.zip)|
+|COIL-DEL|[16,18]| 3900 |100| 21.54 | 54.24 |--|+|+ (2)|--|[COIL-DEL](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/COIL-DEL.zip)|
+|COIL-RAG|[16,18]| 3900 |100| 3.01 | 3.02 |--|--|+ (64)|+ (1)|[COIL-RAG](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/COIL-RAG.zip)|
+|COLLAB|[14]| 5000 |3|74.49 | 2457.78|--|--|--|--|[COLLAB](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/COLLAB.zip)|
+|COLORS-3|[27]|10500|11|61.31|91.03|--|--|+ (4)|--|[COLORS-3](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/COLORS-3.zip)|
+|COX2|[7]| 467 |2|41.22 |43.45|+|--|+ (3)|--|[COX2](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/COX2.zip)|
+|COX2_MD|[7,23]| 303 |2|26.28|335.12|+|+|--|+ (1)|[COX2_MD](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/COX2_MD.zip)|
+|Cuneiform|[25]| 267 |30|21.27|44.80|+|+|+ (3)|+ (2)|[Cuneiform](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Cuneiform.zip)|
+|DBLP_v1|[26]|19456|2 |10.48|19.65|+|+|--|--|[DBLP_v1](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/DBLP_v1.zip)|
+|DHFR|[7]| 467 |2|42.43|44.54|+|--|+ (3)|--|[DHFR](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/DHFR.zip)|
+|DHFR_MD|[7,23]| 393 |2|23.87| 283.01|+|+|--|+ (1)|[DHFR_MD](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/DHFR_MD.zip)|
+|ER_MD|[7,23]| 446 |2| 21.33| 234.85 | +|+|--|+ (1)|[ER_MD](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/ER_MD.zip)|
+|DD|[6,22]| 1178 |2|284.32| 715.66|+|--|--|--|[DD](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/DD.zip)|
+|ENZYMES|[4,5]| 600 |6|32.63 | 62.14|+|--|+ (18)|--|[ENZYMES](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/ENZYMES.zip)|
+|Fingerprint|[16,19]| 2800 |4|5.42 | 4.42|--|--|+ (2)|+ (2)|[Fingerprint](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Fingerprint.zip)|
+|FIRSTMM_DB|[11,12,13]| 41 |11|1377.27| 3074.10|+|--|+ (1) |+ (2)|[FIRSTMM_DB](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/FIRSTMM_DB.zip)|
 |FRANKENSTEIN|[15]| 4337 | 2 |16.90| 17.88 |--|--|+ (780) |--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/FRANKENSTEIN.zip)|
 |IMDB-BINARY|[14]| 1000 |2| 19.77 | 96.53 |--|--|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/IMDB-BINARY.zip)|
 |IMDB-MULTI|[14]| 1500 |3| 13.00 | 65.94 |--|--|--|--|[](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/IMDB-MULTI.zip)|
