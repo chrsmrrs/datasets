@@ -2,7 +2,6 @@
 title: Bibliography
 permalink: /docs/bibliography/
 ---
-==== Bibliography ====
 
 [1] Debnath, A.K., Lopez de Compadre, R.L., Debnath, G., Shusterman, A.J., and Hansch, C.
 [Structure-activity relationship of mutagenic aromatic and heteroaromatic nitro compounds](http://www.ncbi.nlm.nih.gov/pubmed/1995902.
