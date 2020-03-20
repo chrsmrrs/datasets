@@ -7,7 +7,7 @@ permalink: /docs/bibliography/
 [Structure-activity relationship of mutagenic aromatic and heteroaromatic nitro compounds](http://www.ncbi.nlm.nih.gov/pubmed/1995902.
 Correlation with molecular orbital energies and hydrophobicity). J. Med. Chem. 34(2):786-797 (1991).
 
-[2] Helma, C., King, R. D., Kramer, S., and Srinivasan, A. [The Predictive Toxicology Challenge 2000–2001](https://doi.org/10.1093/bioinformatics/17.1.107). Bioinformatics, 2001, 17, 107-108. URL: [](http://www.predictive-toxicology.org/ptc www.predictive-toxicology.org/ptc)
+[2] Helma, C., King, R. D., Kramer, S., and Srinivasan, A. [The Predictive Toxicology Challenge 2000–2001](https://doi.org/10.1093/bioinformatics/17.1.107). Bioinformatics, 2001, 17, 107-108. [The Predictive Toxicology Challenge](http://www.predictive-toxicology.org/ptc www.predictive-toxicology.org/ptc)
 
 [3] Feragen, A., Kasenburg, N., Petersen, J., de Bruijne, M., Borgwardt, K.M.: [Scalable
 kernels for graphs with continuous attributes](http://papers.nips.cc/paper/5155-scalable-kernels-for-graphs-with-continuous-attributes.pdf). In: C.J.C. Burges, L. Bottou, Z. Ghahramani, K.Q. Weinberger (eds.) NIPS, pp. 216-224 (2013).
