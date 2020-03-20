@@ -13,21 +13,20 @@ Correlation with molecular orbital energies and hydrophobicity). J. Med. Chem. 3
 kernels for graphs with continuous attributes](ttp://papers.nips.cc/paper/5155-scalable-kernels-for-graphs-with-continuous-attributes.pdf). In: C.J.C. Burges, L. Bottou, Z. Ghahramani, K.Q. Weinberger (eds.) NIPS, pp. 216-224 (2013).
 
 [4] K. M. Borgwardt, C. S. Ong, S. Schoenauer, S. V. N. Vishwanathan, A. J. Smola, and H. P. 
-Kriegel. [](ttp://bioinformatics.oxfordjournals.org/content/21/suppl_1/i47.full.pdf+html Protein function prediction via graph kernels). Bioinformatics, 21(Suppl 1):i47–i56, 
+Kriegel. [Protein function prediction via graph kernels](http://bioinformatics.oxfordjournals.org/content/21/suppl_1/i47.full.pdf+html). Bioinformatics, 21(Suppl 1):i47–i56, 
 Jun 2005.
 
-[5] I. Schomburg, A. Chang, C. Ebeling, M. Gremse, C. Heldt, G. Huhn, and D. Schomburg. [](ttp://www.ncbi.nlm.nih.gov/pubmed/14681450 Brenda, 
-the enzyme database: updates and major new developments). Nucleic Acids Research, 32D:431–433, 2004.
+[5] I. Schomburg, A. Chang, C. Ebeling, M. Gremse, C. Heldt, G. Huhn, and D. Schomburg. [Brenda, the enzyme database: updates and major new developments](ttp://www.ncbi.nlm.nih.gov/pubmed/14681450). Nucleic Acids Research, 32D:431–433, 2004.
 
-[6] P. D. Dobson and A. J. Doig. [](ttp://www.ncbi.nlm.nih.gov/pubmed/12850146 Distinguishing enzyme structures from non-enzymes without 
-alignments). J. Mol. Biol., 330(4):771–783, Jul 2003.
+[6] P. D. Dobson and A. J. Doig. [Distinguishing enzyme structures from non-enzymes without 
+alignments](http://www.ncbi.nlm.nih.gov/pubmed/12850146). J. Mol. Biol., 330(4):771–783, Jul 2003.
 
-[7] Sutherland, J. J.; O'Brien, L. A. & Weaver, D. F. [](ttp://www.ncbi.nlm.nih.gov/pubmed/14632439 Spline-fitting with a
+[7] Sutherland, J. J.; O'Brien, L. A. & Weaver, D. F. [Spline-fitting with a
 genetic algorithm: a method for developing classification structure-activity
-relationships). J. Chem. Inf. Comput. Sci., 2003, 43, 1906-1915.
+relationships](http://www.ncbi.nlm.nih.gov/pubmed/14632439). J. Chem. Inf. Comput. Sci., 2003, 43, 1906-1915.
 
-[8] N. Wale and G. Karypis. [](ttp://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4053093&tag=1 Comparison of descriptor spaces for chemical compound retrieval and 
-classification). In Proc. of ICDM, pages 678–689, Hong Kong, 2006.
+[8] N. Wale and G. Karypis. [Comparison of descriptor spaces for chemical compound retrieval and 
+classification](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4053093&tag=1). In Proc. of ICDM, pages 678–689, Hong Kong, 2006.
 
 [9] [](ttp://pubchem.ncbi.nlm.nih.gov)
 
