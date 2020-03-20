@@ -25,3 +25,4 @@ There are optional files if the respective information is available:
 * `DS_node_attributes.txt` (`n` lines): matrix of node attributes, the comma seperated values in the i-th line is the attribute vector of the node with `node_id i`
 * `DS_graph_attributes.txt` (`N` lines): regression values for all graphs in the data set, the value in the i-th line is the attribute of the graph with `graph_id i`
 
+The datasets can also we easily accessed from popular graph deep libraries, see [here](https://chrsmrrs.github.io/datasets/docs/deep/).
