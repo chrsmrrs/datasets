@@ -55,7 +55,7 @@ Feb. 1996.
 
 [20] Jeroen Kazius, Ross McGuire and, and Roberta Bursi. [Derivation and Validation of Toxicophores for Mutagenicity Prediction](http://pubs.acs.org/doi/abs/10.1021/jm040835a), Journal of Medicinal Chemistry 2005 48 (1), 312-320 
 
-[21] Christopher Morris, Nils M. Kriege, Kristian Kersting, Petra Mutzel. Faster Kernels for Graphs with Continuous Attributes via Hashing, IEEE International Conference on Data Mining (ICDM) 2016
+[21] Christopher Morris, Nils M. Kriege, Kristian Kersting, Petra Mutzel. [Faster Kernels for Graphs with Continuous Attributes via Hashing](https://ieeexplore.ieee.org/document/7837955), IEEE International Conference on Data Mining (ICDM) 2016
 
 [22] Nino Shervashidze, Pascal Schweitzer, Erik Jan van Leeuwen, Kurt Mehlhorn, and Karsten M. Borgwardt. 2011. [Weisfeiler-Lehman Graph Kernels](http://www.jmlr.org/papers/volume12/shervashidze11a/shervashidze11a.pdf). J. Mach. Learn. Res. 12 (November 2011), 2539-2561. 
 
