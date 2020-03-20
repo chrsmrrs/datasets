@@ -20,7 +20,7 @@ redirect_from: /docs/index.html
 
 
 ## Citing this Website
-We encourage you to refer to our website at https://chrsmrrs.github.io/datasets/docs/home/ if you have used the data sets for your publication. Please use the following BibTeX citation:
+We encourage you to refer to our website at [https://chrsmrrs.github.io/datasets/](https://chrsmrrs.github.io/datasets/) if you have used the data sets for your publication. Please use the following BibTeX citation:
 
 ```
 @misc{KKMMN2016,
