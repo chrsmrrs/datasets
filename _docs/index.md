@@ -20,14 +20,14 @@ redirect_from: /docs/index.html
 
 
 ## Citing this Website
-We encourage you to refer to our website at [https://chrsmrrs.github.io/datasets/](https://chrsmrrs.github.io/datasets/) if you have used the data sets for your publication. Please use the following BibTeX citation:
+We encourage you to refer to our website at [graphlearning.io](http://www.graphlearning.io/) if you have used the data sets for your publication. Please use the following BibTeX citation:
 
 ```
 @misc{KKMMN2016,
   title  = {Benchmark Data Sets for Graph Kernels},
   author = {Kristian Kersting and Nils M. Kriege and Christopher Morris and Petra Mutzel and Marion Neumann},
   year   = {2020},
-  url    = {https://chrsmrrs.github.io/datasets/}
+  url    = {http://www.graphlearning.io/}
 }
 ```
 
@@ -38,7 +38,7 @@ If your bibliography style does not support the url field, you may use this alte
   title  = {Benchmark Data Sets for Graph Kernels},
   author = {Kristian Kersting and Nils M. Kriege and Christopher Morris and Petra Mutzel and Marion Neumann},
   year   = {2020},
-  note   = {https://chrsmrrs.github.io/datasets/}
+  note   = {http://www.graphlearning.io/}
 }
 ```
 
