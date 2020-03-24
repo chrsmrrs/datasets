@@ -73,3 +73,4 @@ Feb. 1996.
 
 [29] [ Alchemy: A Quantum Chemistry Dataset for Benchmarking AI Models](https://arxiv.org/abs/1906.09427)
 
+[30] [An API Oriented Open-source Python Framework for Unsupervised Learning on Graphs](https://github.com/benedekrozemberczki/karateclub)
