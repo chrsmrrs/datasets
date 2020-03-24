@@ -22,6 +22,7 @@ permalink: /docs/datasets/
 |**COX2_MD**|[7,23]| 303 |2|26.28|335.12|+|+|--|+ (1)|[COX2_MD](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/COX2_MD.zip)|
 |**Cuneiform**|[25]| 267 |30|21.27|44.80|+|+|+ (3)|+ (2)|[Cuneiform](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Cuneiform.zip)|
 |**DBLP_v1**|[26]|19456|2 |10.48|19.65|+|+|--|--|[DBLP_v1](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/DBLP_v1.zip)|
+|**deezer_ego_nets**|[30]| 9629 |2|23.49| 65.25 |--|--|--|--|[deezer_ego_nets](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/deezer_ego_nets.zip)|
 |**DHFR**|[7]| 467 |2|42.43|44.54|+|--|+ (3)|--|[DHFR](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/DHFR.zip)|
 |**DHFR_MD**|[7,23]| 393 |2|23.87| 283.01|+|+|--|+ (1)|[DHFR_MD](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/DHFR_MD.zip)|
 |**ER_MD**|[7,23]| 446 |2| 21.33| 234.85 | +|+|--|+ (1)|[ER_MD](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/ER_MD.zip)|
@@ -30,6 +31,7 @@ permalink: /docs/datasets/
 |**Fingerprint**|[16,19]| 2800 |4|5.42 | 4.42|--|--|+ (2)|+ (2)|[Fingerprint](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Fingerprint.zip)|
 |**FIRSTMM_DB**|[11,12,13]| 41 |11|1377.27| 3074.10|+|--|+ (1) |+ (2)|[FIRSTMM_DB](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/FIRSTMM_DB.zip)|
 |**FRANKENSTEIN**|[15]| 4337 | 2 |16.90| 17.88 |--|--|+ (780) |--|[FRANKENSTEIN](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/FRANKENSTEIN.zip)|
+|**github_stargazers**|[30]| 12725 |2|113.79| 234.64 |--|--|--|--|[github_stargazers](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/github_stargazers.zip)|
 |**IMDB-BINARY**|[14]| 1000 |2| 19.77 | 96.53 |--|--|--|--|[IMDB-BINARY](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/IMDB-BINARY.zip)|
 |**IMDB-MULTI**|[14]| 1500 |3| 13.00 | 65.94 |--|--|--|--|[IMDB-MULTI](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/IMDB-MULTI.zip)|
 |**KKI**|[26]|83|2 |26.96|48.42|+|--|--|--|[KKI](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/KKI.zip)|
@@ -66,6 +68,7 @@ permalink: /docs/datasets/
 |**REDDIT-BINARY**|[14]| 2000 |2| 429.63| 497.75 |--|--|--|--|[REDDIT-BINARY](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/REDDIT-BINARY.zip)|
 |**REDDIT-MULTI-5K**|[14]| 4999 | 5 |508.52 | 594.87 |--|--|--|--|[REDDIT-MULTI-5K](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/REDDIT-MULTI-5K.zip)|
 |**REDDIT-MULTI-12K**|[14]| 11929 | 11 | 391.41 | 456.89 |--|--|--|--|[REDDIT-MULTI-12K](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/REDDIT-MULTI-12K.zip)|
+|**reddit_threads**|[30]| 203088 |2|23.93| 24.99 |--|--|--|--|[reddit_threads](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/reddit_threads.zip)|
 |**SF-295**|[28]| 40271 |2|26.06| 28.08 |+|+|--|--|[SF-295](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/SF-295.zip)|
 |**SF-295H**|[28]| 40271 |2|46.65| 48.68 |+|+|--|--|[SF-295H](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/SF-295H.zip)|
 |**SN12C**|[28]| 40004 |2|26.08| 28.11 |+|+|--|--|[SN12C](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/SN12C.zip)|
@@ -112,6 +115,7 @@ permalink: /docs/datasets/
 |**Tox21_PPAR-gamma_testing**|[24]|267|2 |22.04|22.93|+|+|--|--|[Tox21_PPAR-gamma_testing](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_PPAR-gamma_testing.zip)|
 |**Tox21_PPAR-gamma_evaluation**|[24]|602|2 |17.38|17.77|+|+|--|--|[Tox21_PPAR-gamma_evaluation](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_PPAR-gamma_evaluation.zip)|
 |**TRIANGLES**|[27]|45000|10|20.85|32.74|--|--|--|--|[TRIANGLES](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/TRIANGLES.zip)|
+|**twitch_egos**|[30]| 127094 |2|29.67| 86.59 |--|--|--|--|[twitch_egos](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/twitch_egos.zip)|
 |**TWITTER-Real-Graph-Partial**|[26]|144033|2 |4.03|4.98|+|--|--|+ (1)|[TWITTER-Real-Graph-Partial](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/TWITTER-Real-Graph-Partial.zip)|
 |**UACC257**|[28]| 39988 |2|26.09| 28.12 |+|+|--|--|[UACC257](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/UACC257.zip)|
 |**UACC257H**|[28]| 39988 |2|46.68| 48.71 |+|+|--|--|[UACC257H](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/UACC257H.zip)|
