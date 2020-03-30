@@ -74,3 +74,5 @@ Feb. 1996.
 [29] [ Alchemy: A Quantum Chemistry Dataset for Benchmarking AI Models](https://arxiv.org/abs/1906.09427)
 
 [30] [An API Oriented Open-source Python Framework for Unsupervised Learning on Graphs](https://github.com/benedekrozemberczki/karateclub)
+
+[31] Xavier Bresson, Thomas Laurent. [A Two-Step Graph Convolutional Decoder for Molecule Generation](https://ml4physicalsciences.github.io/files/NeurIPS_ML4PS_2019_93.pdf). Workshop on Machine Learning and the Physical Sciences. 2019.
