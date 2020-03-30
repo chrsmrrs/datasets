@@ -121,6 +121,9 @@ permalink: /docs/datasets/
 |**UACC257H**|[28]| 39988 |2|46.68| 48.71 |+|+|--|--|[UACC257H](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/UACC257H.zip)|
 |**Yeast**|[28]| 79601 |2|21.54| 22.84 |+|+|--|--|[Yeast](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Yeast.zip)|
 |**YeastH**|[28]| 79601 |2|39.44| 40.74 |+|+|--|--|[YeastH](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/YeastH.zip)|
+|**ZINC_test**|[31]| 5000 |R (1)|23.10|24.83|+|+|--|--|[ZINC_test](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/ZINC_test.zip)|
+|**ZINC_train**|[31]| 220011 |R (1)|23.15|24.91|+|+|--|--|[ZINC_train](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/ZINC_train.zip)|
+|**ZINC_val**|[31]| 24445 |R (1)|23.13|24.88|+|+|--|--|[ZINC_val](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/ZINC_val.zip)|
 | -------- | ---------- | -------------- ||| --------------------- ||| ------------------ |
 **All Data Sets** | |||||||||[All](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/DS_all.zip)|
 
