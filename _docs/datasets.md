@@ -21,6 +21,8 @@ permalink: /docs/datasets/
 |**COX2**|[7]| 467 |2|41.22 |43.45|+|--|+ (3)|--|[COX2](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/COX2.zip)|
 |**COX2_MD**|[7,23]| 303 |2|26.28|335.12|+|+|--|+ (1)|[COX2_MD](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/COX2_MD.zip)|
 |**Cuneiform**|[25]| 267 |30|21.27|44.80|+|+|+ (3)|+ (2)|[Cuneiform](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Cuneiform.zip)|
+|**dblp_ct1**|[32]|755|2 |52.87|320.09|temporal|--|--|temporal|[dblp_ct1](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/dblp_ct1.zip)|
+|**dblp_ct2**|[32]|755|2 |52.87|320.09|temporal|--|--|temporal|[dblp_ct2](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/dblp_ct2.zip)|
 |**DBLP_v1**|[26]|19456|2 |10.48|19.65|+|+|--|--|[DBLP_v1](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/DBLP_v1.zip)|
 |**deezer_ego_nets**|[30]| 9629 |2|23.49| 65.25 |--|--|--|--|[deezer_ego_nets](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/deezer_ego_nets.zip)|
 |**DHFR**|[7]| 467 |2|42.43|44.54|+|--|+ (3)|--|[DHFR](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/DHFR.zip)|
