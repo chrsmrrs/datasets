@@ -22,7 +22,7 @@ redirect_from: /docs/index.html
 
 
 ## Citing this Website
-We encourage you to refer to our website at [graphlearning.io](http://www.graphlearning.io/) if you have used the datasets for your publication. Please use the following BibTeX citation:
+Please refer to our website at [graphlearning.io](http://www.graphlearning.io/) if you have used the datasets for your publication. Please use the following BibTeX citation:
 
 ```
 @misc{KKMMN2016,
