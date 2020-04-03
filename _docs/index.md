@@ -44,4 +44,4 @@ If your bibliography style does not support the url field, you may use this alte
 }
 ```
 
-**Please do not forget to cite the orignal paper when using a specific dataset.**
+**Please do not forget to cite the original paper when using a specific dataset.**
