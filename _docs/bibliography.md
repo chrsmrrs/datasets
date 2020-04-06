@@ -67,7 +67,7 @@ Feb. 1996.
 
 [26] [ A Repository of Benchmark Graph Datasets for Graph Classification](https://github.com/shiruipan/graph_datasets)
 
-[27] Boris Knyazev, Graham W. Taylor, Mohamed R. Amer. [Understanding Attention and Generalization in Graph Neural Networks](https://arxiv.org/abs/1905.02850)
+[27] Boris Knyazev, Graham W. Taylor, Mohamed R. Amer. [Understanding Attention and Generalization in Graph Neural Networks](https://arxiv.org/abs/1905.02850). Neural Information Processing Systems (NeurIPS) 2019, 4204-4214.
 
 [28] Xifeng Yan, Hong Cheng, Jiawei Han, Philip S. Yu. [Mining Significant Graph Patterns by Leap Search](https://doi.org/10.1145/1376616.1376662). ACM SIGMOD International Conference on Management of Data 2008, 433–444,
 [Chemical Datasets](https://sites.cs.ucsb.edu/~xyan/dataset.htm).
