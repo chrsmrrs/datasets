@@ -63,15 +63,16 @@ Feb. 1996.
 
 [24] [Tox21 Data Challenge 2014](https://tripod.nih.gov/tox21/challenge/data.jsp)
 
-[25] Nils M. Kriege, Matthias Fey, Denis Fisseler, Petra Mutzel, Frank Weichert. [ Recognizing Cuneiform Signs Using Graph Based Methods](http://proceedings.mlr.press/v88/kriege18a.html). International Workshop on Cost-Sensitive Learning (COST), SIAM International Conference on Data Mining (SDM) 2018, 31-44.
+[25] Nils M. Kriege, Matthias Fey, Denis Fisseler, Petra Mutzel, Frank Weichert. [Recognizing Cuneiform Signs Using Graph Based Methods](http://proceedings.mlr.press/v88/kriege18a.html). International Workshop on Cost-Sensitive Learning (COST), SIAM International Conference on Data Mining (SDM) 2018, 31-44.
 
 [26] [ A Repository of Benchmark Graph Datasets for Graph Classification](https://github.com/shiruipan/graph_datasets)
 
 [27] Boris Knyazev, Graham W. Taylor, Mohamed R. Amer. [Understanding Attention and Generalization in Graph Neural Networks](https://arxiv.org/abs/1905.02850)
 
-[28] [Chemical DataSets](https://sites.cs.ucsb.edu/~xyan/dataset.htm)
+[28] Xifeng Yan and Hong Cheng and Jiawei Han and Philip S. Yu. [Mining Significant Graph Patterns by Leap Search](https://doi.org/10.1145/1376616.1376662). ACM SIGMOD International Conference on Management of Data 2008, 433–444,
+[Chemical Datasets](https://sites.cs.ucsb.edu/~xyan/dataset.htm).
 
-[29] [ Alchemy: A Quantum Chemistry Dataset for Benchmarking AI Models](https://arxiv.org/abs/1906.09427)
+[29] [Alchemy: A Quantum Chemistry Dataset for Benchmarking AI Models](https://arxiv.org/abs/1906.09427)
 
 [30] [An API Oriented Open-source Python Framework for Unsupervised Learning on Graphs](https://github.com/benedekrozemberczki/karateclub)
 
