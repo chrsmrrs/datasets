@@ -5,7 +5,6 @@ redirect_from: /docs/index.html
 ---
 ## News
 
-* **08.04.2020:** Added four new datasets from [33].
 * **30.03.2020:** Added three new datasets from [31]. Thanks Xavier!
 * **24.03.2020:** Added four new datasets from [30]. Thanks Benedek!
 * **02.03.2020:** Added three new datasets from [29].
