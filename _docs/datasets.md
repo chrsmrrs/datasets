@@ -61,6 +61,10 @@ permalink: /docs/datasets/
 |**NCI109**|[8,9,22]| 4127 |2|29.68| 32.13 |+|--|--|--|[NCI109](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/NCI109.zip)|
 |**NCI-H23**|[28]| 40353 |2|26.07| 28.10 |+|+|--|--|[NCI-H23](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/NCI-H23.zip-H23)|
 |**NCI-H23H**|[28]| 40353 |2|46.67| 48.69 |+|+|--|--|[NCI-H23H](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/NCI-H23H.zip-H23H)|
+|**ogbg-mol-hiv_full**|[33]| 41127 |2|25.56|27.48|--|--|+(9)|+(3)|[ogbg-mol-hiv_full](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/ogbg-mol-hiv_full.zip)|
+|**ogbg-mol-hiv_test**|[33]| 4113 |2|25.68|27.96|--|--|+(9)|+(3)|[ogbg-mol-hiv_test](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/ogbg-mol-hiv_test.zip)|
+|**ogbg-mol-hiv_train**|[33]| 32901 |2|25.26|27.04|--|--|+(9)|+(3)|[ogbg-mol-hiv_train](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/ogbg-mol-hiv_train.zip)|
+|**ogbg-mol-hiv_valid**|[33]| 4113|2|27.79|30.53|--|--|+(9)|+(3)|[ogbg-mol-hiv_valid](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/ogbg-mol-hiv_valid.zip)|
 |**OHSU**|[26]|79|2 |82.01|199.66|+|--|--|--|[OHSU](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/OHSU.zip)|
 |**OVCAR-8**|[28]| 40516 |2|26.07| 28.10 |+|+|--|--|[OVCAR-8](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/OVCAR-8.zip-8)|
 |**OVCAR-8H**|[28]| 40516 |2|46.67| 48.70 |+|+|--|--|[OVCAR-8H](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/OVCAR-8H.zip-8H)|
@@ -133,6 +137,7 @@ permalink: /docs/datasets/
 |**UACC257H**|[28]| 39988 |2|46.68| 48.71 |+|+|--|--|[UACC257H](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/UACC257H.zip)|
 |**Yeast**|[28]| 79601 |2|21.54| 22.84 |+|+|--|--|[Yeast](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Yeast.zip)|
 |**YeastH**|[28]| 79601 |2|39.44| 40.74 |+|+|--|--|[YeastH](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/YeastH.zip)|
+|**ZINC_full**|[31]| 249456 |R (1)|23.14|24.91|+|+|--|--|[ZINC_full](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/ZINC_full.zip)|
 |**ZINC_test**|[31]| 5000 |R (1)|23.10|24.83|+|+|--|--|[ZINC_test](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/ZINC_test.zip)|
 |**ZINC_train**|[31]| 220011 |R (1)|23.15|24.91|+|+|--|--|[ZINC_train](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/ZINC_train.zip)|
 |**ZINC_val**|[31]| 24445 |R (1)|23.13|24.88|+|+|--|--|[ZINC_val](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/ZINC_val.zip)|
