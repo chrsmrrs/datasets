@@ -80,5 +80,4 @@ Feb. 1996.
 
 [32] Lutz Oettershagen, Nils Kriege, Christopher Morris, Petra Mutzel. [Temporal Graph Kernels for Classifying Dissemination Processes](https://arxiv.org/pdf/1911.05496.pdf). SIAM International Conference on Data Mining (SDM) 2020.
 
-[33] [OGB Graph Property Prediction](https://ogb.stanford.edu/docs/graphprop/)
 
