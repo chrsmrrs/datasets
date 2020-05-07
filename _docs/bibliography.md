@@ -81,3 +81,11 @@ Feb. 1996.
 [32] Lutz Oettershagen, Nils Kriege, Christopher Morris, Petra Mutzel. [Temporal Graph Kernels for Classifying Dissemination Processes](https://arxiv.org/pdf/1911.05496.pdf). SIAM International Conference on Data Mining (SDM) 2020.
 
 [33] https://pytorch-geometric.readthedocs.io/en/latest/modules/datasets.html
+
+[34]  Zhenqin Wu, Bharath Ramsundar, Evan Feinberg, Joseph Gomes, Caleb Geniesse, Aneesh Pappu, Karl Leswing, Vijay Pande.
+[MoleculeNet: A Benchmark for Molecular Machine Learning](https://arxiv.org/abs/1703.00564). Chemical Science. 9. 2017.
+
+[35] Raghunathan Ramakrishnan, Pavlo Dral, Matthias Rupp, O. Anatole von Lilienfeld.
+[Quantum Chemistry Structures and Properties of 134 kilo Molecules](https://www.researchgate.net/publication/274256239_Quantum_chemistry_structures_and_properties_of_134_kilo_molecules), Scientific Data
+1: 140022, 2014.
+
