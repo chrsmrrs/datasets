@@ -76,7 +76,7 @@ permalink: /docs/datasets/
 |**PTC_MR**|[2,23]| 344 |2|14.29| 14.69|+|+|--|--|[PTC_MR](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/PTC_MR.zip)|
 |**PROTEINS**|[4,6]| 1113 |2|39.06|72.82|+|--|+ (1)|--|[PROTEINS](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/PROTEINS.zip)|
 |**PROTEINS_full**|[4,6]| 1113 |2|39.06|72.82|+|--|+ (29)|--|[PROTEINS_full](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/PROTEINS_full.zip)|
-|**QM9**|[33,34,35]| 129433|R(19)|18.03|18.63|--|--|+(16)|+(4)|[QM9](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/QM9.zip)|
+|**QM9**|[33,34,35]| 129433|R(19)|18.03|18.63|--|--|+ (16)|+(4)|[QM9](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/QM9.zip)|
 |**REDDIT-BINARY**|[14]| 2000 |2| 429.63| 497.75 |--|--|--|--|[REDDIT-BINARY](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/REDDIT-BINARY.zip)|
 |**REDDIT-MULTI-5K**|[14]| 4999 | 5 |508.52 | 594.87 |--|--|--|--|[REDDIT-MULTI-5K](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/REDDIT-MULTI-5K.zip)|
 |**REDDIT-MULTI-12K**|[14]| 11929 | 11 | 391.41 | 456.89 |--|--|--|--|[REDDIT-MULTI-12K](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/REDDIT-MULTI-12K.zip)|
