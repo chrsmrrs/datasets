@@ -4,6 +4,7 @@ permalink: /docs/datasets/
 ---
 
 ## Small molecules
+
 | **Name** | **Source** | **Statistics** ||| **Labels/Attributes** ||||| **Download (ZIP)** |
 | --- |--- | --- |---|---| ---|  :---:|   :---:|   :---:|  :---:|  ---| 
 |         |          |*Graphs*|*Classes*|*Avg. Nodes*|*Avg. Edges*|*Node Labels*|*Edge Labels*|*Node Attr.*|*Edge Attr.*|
@@ -86,6 +87,7 @@ permalink: /docs/datasets/
 |**ZINC_val**|[31]| 24445 |R (1)|23.13|24.88|+|+|--|--|[ZINC_val](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/ZINC_val.zip)|
 
 ## Bioinformatics
+
 | **Name** | **Source** | **Statistics** ||| **Labels/Attributes** ||||| **Download (ZIP)** |
 | --- |--- | --- |---|---| ---|  :---:|   :---:|   :---:|  :---:|  ---| 
 |         |          |*Graphs*|*Classes*|*Avg. Nodes*|*Avg. Edges*|*Node Labels*|*Edge Labels*|*Node Attr.*|*Edge Attr.*|
@@ -107,6 +109,7 @@ permalink: /docs/datasets/
 |**PROTEINS_full**|[4,6]| 1113 |2|39.06|72.82|+|--|+ (29)|--|[PROTEINS_full](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/PROTEINS_full.zip)|
 
 ## Computer vision
+
 | **Name** | **Source** | **Statistics** ||| **Labels/Attributes** ||||| **Download (ZIP)** |
 | --- |--- | --- |---|---| ---|  :---:|   :---:|   :---:|  :---:|  ---| 
 |         |          |*Graphs*|*Classes*|*Avg. Nodes*|*Avg. Edges*|*Node Labels*|*Edge Labels*|*Node Attr.*|*Edge Attr.*|
@@ -124,6 +127,7 @@ permalink: /docs/datasets/
 |**MSRC_21C**|[13]| 209 |20|40.28 | 96.60|+|--|--|--|[MSRC_21C](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/MSRC_21C.zip)|
 
 ## Social networks
+
 | **Name** | **Source** | **Statistics** ||| **Labels/Attributes** ||||| **Download (ZIP)** |
 | --- |--- | --- |---|---| ---|  :---:|   :---:|   :---:|  :---:|  ---| 
 |         |          |*Graphs*|*Classes*|*Avg. Nodes*|*Avg. Edges*|*Node Labels*|*Edge Labels*|*Node Attr.*|*Edge Attr.*|
@@ -154,6 +158,7 @@ permalink: /docs/datasets/
 |**TWITTER-Real-Graph-Partial**|[26]|144033|2 |4.03|4.98|+|--|--|+ (1)|[TWITTER-Real-Graph-Partial](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/TWITTER-Real-Graph-Partial.zip)|
 
 ## Synthetic
+
 | **Name** | **Source** | **Statistics** ||| **Labels/Attributes** ||||| **Download (ZIP)** |
 | --- |--- | --- |---|---| ---|  :---:|   :---:|   :---:|  :---:|  ---| 
 |         |          |*Graphs*|*Classes*|*Avg. Nodes*|*Avg. Edges*|*Node Labels*|*Edge Labels*|*Node Attr.*|*Edge Attr.*|
