@@ -84,7 +84,6 @@ permalink: /docs/datasets/
 |**ZINC_test**|[31]| 5000 |R (1)|23.10|24.83|+|+|--|--|[ZINC_test](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/ZINC_test.zip)|
 |**ZINC_train**|[31]| 220011 |R (1)|23.15|24.91|+|+|--|--|[ZINC_train](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/ZINC_train.zip)|
 |**ZINC_val**|[31]| 24445 |R (1)|23.13|24.88|+|+|--|--|[ZINC_val](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/ZINC_val.zip)|
-| -------- | ---------- | -------------- ||| --------------------- ||| ------------------ |
 
 ## Bioinformatics
 | **Name** | **Source** | **Statistics** ||| **Labels/Attributes** ||||| **Download (ZIP)** |
@@ -106,7 +105,6 @@ permalink: /docs/datasets/
 |**Peking_1**|[26]|85|2 |39.31|77.35|+|--|--|--|[Peking_1](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Peking_1.zip)|
 |**PROTEINS**|[4,6]| 1113 |2|39.06|72.82|+|--|+ (1)|--|[PROTEINS](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/PROTEINS.zip)|
 |**PROTEINS_full**|[4,6]| 1113 |2|39.06|72.82|+|--|+ (29)|--|[PROTEINS_full](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/PROTEINS_full.zip)|
-| -------- | ---------- | -------------- ||| --------------------- ||| ------------------ |
 
 ## Computer vision
 | **Name** | **Source** | **Statistics** ||| **Labels/Attributes** ||||| **Download (ZIP)** |
@@ -124,7 +122,6 @@ permalink: /docs/datasets/
 |**MSRC_9**|[13]| 221 |8|40.58| 97.94 |+|--|--|--|[MSRC_9](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/MSRC_9.zip)|
 |**MSRC_21**|[13]| 563 |20|77.52|198.32|+|--|--|--|[MSRC_21](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/MSRC_21.zip)|
 |**MSRC_21C**|[13]| 209 |20|40.28 | 96.60|+|--|--|--|[MSRC_21C](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/MSRC_21C.zip)|
-| -------- | ---------- | -------------- ||| --------------------- ||| ------------------ |
 
 ## Social networks
 | **Name** | **Source** | **Statistics** ||| **Labels/Attributes** ||||| **Download (ZIP)** |
@@ -155,7 +152,6 @@ permalink: /docs/datasets/
 |**tumblr_ct2**|[32]|373|2 |53.11|199.78|temporal|--|--|temporal|[tumblr_ct2](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/tumblr_ct2.zip)|
 |**twitch_egos**|[30]| 127094 |2|29.67| 86.59 |--|--|--|--|[twitch_egos](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/twitch_egos.zip)|
 |**TWITTER-Real-Graph-Partial**|[26]|144033|2 |4.03|4.98|+|--|--|+ (1)|[TWITTER-Real-Graph-Partial](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/TWITTER-Real-Graph-Partial.zip)|
-| -------- | ---------- | -------------- ||| --------------------- ||| ------------------ |
 
 ## Synthetic
 | **Name** | **Source** | **Statistics** ||| **Labels/Attributes** ||||| **Download (ZIP)** |
@@ -167,10 +163,9 @@ permalink: /docs/datasets/
 |**SYNTHETICnew**|[3,10]| 300 |2|100.00| 196.25|--|--|+ (1)|--|[SYNTHETICnew](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/SYNTHETICnew.zip)|
 |**Synthie**|[21]| 400 |4|95.00| 172.93|--|--|+ (15)|--|[Synthie](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Synthie.zip)|
 |**TRIANGLES**|[27]|45000|10|20.85|32.74|--|--|--|--|[TRIANGLES](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/TRIANGLES.zip)|
-| -------- | ---------- | -------------- ||| --------------------- ||| ------------------ |
 
 ## All Data Sets
 
-[**All Data Sets**](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/DS_all.zip)|
+[**All Data Sets**](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/DS_all.zip)
 
 R(N) are regression datasets with N tasks per graph.
