@@ -3,93 +3,43 @@ title: Datasets
 permalink: /docs/datasets/
 ---
 
-
+## Small molecules
 | **Name** | **Source** | **Statistics** ||| **Labels/Attributes** ||||| **Download (ZIP)** |
 | --- |--- | --- |---|---| ---|  :---:|   :---:|   :---:|  :---:|  ---| 
 |         |          |*Graphs*|*Classes*|*Avg. Nodes*|*Avg. Edges*|*Node Labels*|*Edge Labels*|*Node Attr.*|*Edge Attr.*|
 | --- |--- | --- |---|---| ---|  :---:| :---:| :---: | :---: | --- |
-|**AIDS**|[16,17]| 2000 |2|15.69|16.20|+|+|+ (4)|--|[AIDS](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/AIDS.zip)|
 |**alchemy_dev**|[29]| 99776 |R (12)|9.71|10.02|+|+|--|--|[alchemy_dev](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/alchemy_dev.zip)|
 |**alchemy_full**|[29]| 202579 | R (12)|10.10|10.44|+|+|--|--|[alchemy_full](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/alchemy_full.zip)|
 |**alchemy_test**|[29]| 15760 |--|11.25|11.76|+|+|--|--|[alchemy_test](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/alchemy_test.zip)|
 |**alchemy_valid**|[29]| 3951 |R (12)|11.25        |11.77      |+|+|--|--|[alchemy_valid](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/alchemy_valid.zip)|
-|**BZR**|[7]| 405 |2|35.75|38.36|+|--|+ (3)|--|[BZR](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/BZR.zip)|
-|**BZR_MD**|[7,23]| 306 |2|21.30|225.06|+|+|--|+ (1)|[BZR_MD](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/BZR_MD.zip)|
-|**COIL-DEL**|[16,18]| 3900 |100| 21.54 | 54.24 |--|+|+ (2)|--|[COIL-DEL](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/COIL-DEL.zip)|
-|**COIL-RAG**|[16,18]| 3900 |100| 3.01 | 3.02 |--|--|+ (64)|+ (1)|[COIL-RAG](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/COIL-RAG.zip)|
-|**COLLAB**|[14]| 5000 |3|74.49 | 2457.78|--|--|--|--|[COLLAB](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/COLLAB.zip)|
-|**COLORS-3**|[27]|10500|11|61.31|91.03|--|--|+ (4)|--|[COLORS-3](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/COLORS-3.zip)|
-|**COX2**|[7]| 467 |2|41.22 |43.45|+|--|+ (3)|--|[COX2](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/COX2.zip)|
-|**COX2_MD**|[7,23]| 303 |2|26.28|335.12|+|+|--|+ (1)|[COX2_MD](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/COX2_MD.zip)|
-|**Cuneiform**|[25]| 267 |30|21.27|44.80|+|+|+ (3)|+ (2)|[Cuneiform](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Cuneiform.zip)|
-|**dblp_ct1**|[32]|755|2 |52.87|320.09|temporal|--|--|temporal|[dblp_ct1](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/dblp_ct1.zip)|
-|**dblp_ct2**|[32]|755|2 |52.87|320.09|temporal|--|--|temporal|[dblp_ct2](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/dblp_ct2.zip)|
-|**DBLP_v1**|[26]|19456|2 |10.48|19.65|+|+|--|--|[DBLP_v1](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/DBLP_v1.zip)|
-|**deezer_ego_nets**|[30]| 9629 |2|23.49| 65.25 |--|--|--|--|[deezer_ego_nets](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/deezer_ego_nets.zip)|
-|**DHFR**|[7]| 467 |2|42.43|44.54|+|--|+ (3)|--|[DHFR](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/DHFR.zip)|
-|**DHFR_MD**|[7,23]| 393 |2|23.87| 283.01|+|+|--|+ (1)|[DHFR_MD](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/DHFR_MD.zip)|
-|**ER_MD**|[7,23]| 446 |2| 21.33| 234.85 | +|+|--|+ (1)|[ER_MD](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/ER_MD.zip)|
-|**DD**|[6,22]| 1178 |2|284.32| 715.66|+|--|--|--|[DD](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/DD.zip)|
-|**ENZYMES**|[4,5]| 600 |6|32.63 | 62.14|+|--|+ (18)|--|[ENZYMES](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/ENZYMES.zip)|
-|**facebook_ct1**|[32]|995|2 |95.72|269.01|temporal|--|--|temporal|[facebook_ct1](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/facebook_ct1.zip)|
-|**facebook_ct2**|[32]|995|2 |95.72|269.01|temporal|--|--|temporal|[facebook_ct2](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/facebook_ct2.zip)|
-|**Fingerprint**|[16,19]| 2800 |4|5.42 | 4.42|--|--|+ (2)|+ (2)|[Fingerprint](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Fingerprint.zip)|
-|**FIRSTMM_DB**|[11,12,13]| 41 |11|1377.27| 3074.10|+|--|+ (1) |+ (2)|[FIRSTMM_DB](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/FIRSTMM_DB.zip)|
 |**FRANKENSTEIN**|[15]| 4337 | 2 |16.90| 17.88 |--|--|+ (780) |--|[FRANKENSTEIN](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/FRANKENSTEIN.zip)|
-|**github_stargazers**|[30]| 12725 |2|113.79| 234.64 |--|--|--|--|[github_stargazers](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/github_stargazers.zip)|
-|**highschool_ct1**|[32]|180|2 |52.32|544.81|temporal|--|--|temporal|[highschool_ct1](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/highschool_ct1.zip)|
-|**highschool_ct2**|[32]|180|2 |52.32|544.81|temporal|--|--|temporal|[highschool_ct2](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/highschool_ct2.zip)|
-|**IMDB-BINARY**|[14]| 1000 |2| 19.77 | 96.53 |--|--|--|--|[IMDB-BINARY](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/IMDB-BINARY.zip)|
-|**IMDB-MULTI**|[14]| 1500 |3| 13.00 | 65.94 |--|--|--|--|[IMDB-MULTI](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/IMDB-MULTI.zip)|
-|**infectious_ct1**|[32]|200|2 |50|459.72|temporal|--|--|temporal|[infectious_ct1](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/infectious_ct1.zip)|
-|**infectious_ct2**|[32]|200|2 |50|459.72|temporal|--|--|temporal|[infectious_ct2](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/infectious_ct2.zip)|
-|**KKI**|[26]|83|2 |26.96|48.42|+|--|--|--|[KKI](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/KKI.zip)|
-|**Letter-high**|[16]| 2250 |15| 4.67 |4.50 |--|--|+ (2)|--|[Letter-high](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Letter-high.zip)|
-|**Letter-low**|[16]| 2250 |15| 4.68 |3.13 |--|--|+ (2)|--|[Letter-low](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Letter-low.zip)|
-|**Letter-med**|[16]| 2250 |15| 4.67 |4.50 |--|--|+ (2)|--|[Letter-med](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Letter-med.zip)|
 |**MCF-7**|[28]| 27770 |2|26.39| 28.52 |+|+|--|--|[MCF-7](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/MCF-7.zip)|
 |**MCF-7H**|[28]| 27770 |2|47.30| 49.43 |+|+|--|--|[MCF-7H](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/MCF-7H.zip)|
-|**mit_ct1**|[32]|97|2 |20|1469.15|temporal|--|--|temporal|[mit_ct1](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/mit_ct1.zip)|
-|**mit_ct2**|[32]|97|2 |20|1469.15|temporal|--|--|temporal|[mit_ct2](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/mit_ct2.zip)|
 |**MOLT-4**|[28]| 39765 |2|26.09| 28.13 |+|+|--|--|[MOLT-4](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/MOLT-4.zip)|
 |**MOLT-4H**|[28]| 39765 |2|46.70| 48.73 |+|+|--|--|[MOLT-4H](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/MOLT-4H.zip)|
 |**Mutagenicity**|[16,20]| 4337 |2| 30.32 | 30.77 |+|+|--|--|[Mutagenicity](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Mutagenicity.zip)|
-|**MSRC_9**|[13]| 221 |8|40.58| 97.94 |+|--|--|--|[MSRC_9](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/MSRC_9.zip)|
-|**MSRC_21**|[13]| 563 |20|77.52|198.32|+|--|--|--|[MSRC_21](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/MSRC_21.zip)|
-|**MSRC_21C**|[13]| 209 |20|40.28 | 96.60|+|--|--|--|[MSRC_21C](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/MSRC_21C.zip)|
 |**MUTAG**|[1,23]| 188 |2|17.93|19.79|+|+|--|--|[MUTAG](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/MUTAG.zip)|
 |**NCI1**|[8,9,22]| 4110 |2|29.87|32.30|+|--|--|--|[NCI1](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/NCI1.zip)|
 |**NCI109**|[8,9,22]| 4127 |2|29.68| 32.13 |+|--|--|--|[NCI109](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/NCI109.zip)|
 |**NCI-H23**|[28]| 40353 |2|26.07| 28.10 |+|+|--|--|[NCI-H23](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/NCI-H23.zip-H23)|
 |**NCI-H23H**|[28]| 40353 |2|46.67| 48.69 |+|+|--|--|[NCI-H23H](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/NCI-H23H.zip-H23H)|
-|**OHSU**|[26]|79|2 |82.01|199.66|+|--|--|--|[OHSU](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/OHSU.zip)|
 |**OVCAR-8**|[28]| 40516 |2|26.07| 28.10 |+|+|--|--|[OVCAR-8](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/OVCAR-8.zip-8)|
 |**OVCAR-8H**|[28]| 40516 |2|46.67| 48.70 |+|+|--|--|[OVCAR-8H](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/OVCAR-8H.zip-8H)|
 |**P388**|[28]| 41472 |2|22.11| 23.55 |+|+|--|--|[P388](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/P388.zip)|
 |**P388H**|[28]| 41472 |2|40.44| 41.88 |+|+|--|--|[P388H](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/P388H.zip)|
 |**PC-3**|[28]| 27509 |2|26.35| 28.49 |+|+|--|--|[PC-3](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/PC-3.zip)|
 |**PC-3H**|[28]| 27509 |2|47.19| 49.32 |+|+|--|--|[PC-3H](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/PC-3H.zip)|
-|**Peking_1**|[26]|85|2 |39.31|77.35|+|--|--|--|[Peking_1](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Peking_1.zip)|
 |**PTC_FM**|[2,23]| 349 |2|14.11|14.48|+|+|--|--|[PTC_FM](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/PTC_FM.zip)|
 |**PTC_FR**|[2,23]| 351 |2|14.56| 15.00|+|+|--|--|[PTC_FR](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/PTC_FR.zip)|
 |**PTC_MM**|[2,23]| 336 |2|13.97 | 14.32|+|+|--|--|[PTC_MM](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/PTC_MM.zip)|
 |**PTC_MR**|[2,23]| 344 |2|14.29| 14.69|+|+|--|--|[PTC_MR](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/PTC_MR.zip)|
-|**PROTEINS**|[4,6]| 1113 |2|39.06|72.82|+|--|+ (1)|--|[PROTEINS](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/PROTEINS.zip)|
-|**PROTEINS_full**|[4,6]| 1113 |2|39.06|72.82|+|--|+ (29)|--|[PROTEINS_full](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/PROTEINS_full.zip)|
 |**QM9**|[33,34,35]| 129433|R(19)|18.03|18.63|--|--|+ (16)|+ (4)|[QM9](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/QM9.zip)|
-|**REDDIT-BINARY**|[14]| 2000 |2| 429.63| 497.75 |--|--|--|--|[REDDIT-BINARY](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/REDDIT-BINARY.zip)|
-|**REDDIT-MULTI-5K**|[14]| 4999 | 5 |508.52 | 594.87 |--|--|--|--|[REDDIT-MULTI-5K](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/REDDIT-MULTI-5K.zip)|
-|**REDDIT-MULTI-12K**|[14]| 11929 | 11 | 391.41 | 456.89 |--|--|--|--|[REDDIT-MULTI-12K](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/REDDIT-MULTI-12K.zip)|
-|**reddit_threads**|[30]| 203088 |2|23.93| 24.99 |--|--|--|--|[reddit_threads](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/reddit_threads.zip)|
 |**SF-295**|[28]| 40271 |2|26.06| 28.08 |+|+|--|--|[SF-295](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/SF-295.zip)|
 |**SF-295H**|[28]| 40271 |2|46.65| 48.68 |+|+|--|--|[SF-295H](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/SF-295H.zip)|
 |**SN12C**|[28]| 40004 |2|26.08| 28.11 |+|+|--|--|[SN12C](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/SN12C.zip)|
 |**SN12CH**|[28]| 40004 |2|46.69| 48.71 |+|+|--|--|[SN12CH](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/SN12CH.zip)|
 |**SW-620**|[28]| 40532 |2|26.05| 28.08 |+|+|--|--|[SW-620](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/SW-620.zip)|
 |**SW-620H**|[28]| 40532 |2|46.62| 48.65 |+|+|--|--|[SW-620H](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/SW-620H.zip)|
-|**SYNTHETIC**|[3]| 300 |2|100.00| 196.00|--|--|+ (1)|--|[SYNTHETIC](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/SYNTHETIC.zip)|
-|**SYNTHETICnew**|[3,10]| 300 |2|100.00| 196.25|--|--|+ (1)|--|[SYNTHETICnew](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/SYNTHETICnew.zip)|
-|**Synthie**|[21]| 400 |4|95.00| 172.93|--|--|+ (15)|--|[Synthie](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Synthie.zip)|
 |**Tox21_AhR_training**|[24]|8169|2 |18.09|18.50|+|+|--|--|[Tox21_AhR_training](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_AhR_training.zip)|
 |**Tox21_AhR_testing**|[24]|272|2 |22.13|23.05|+|+|--|--|[Tox21_AhR_testing](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_AhR_testing.zip)|
 |**Tox21_AhR_evaluation**|[24]|607|2 |17.64|18.06|+|+|--|--|[Tox21_AhR_evaluation](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_AhR_evaluation.zip)|
@@ -126,11 +76,6 @@ permalink: /docs/datasets/
 |**Tox21_PPAR-gamma_training**|[24]|8184|2 |17.23|17.55|+|+|--|--|[Tox21_PPAR-gamma_training](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_PPAR-gamma_training.zip)|
 |**Tox21_PPAR-gamma_testing**|[24]|267|2 |22.04|22.93|+|+|--|--|[Tox21_PPAR-gamma_testing](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_PPAR-gamma_testing.zip)|
 |**Tox21_PPAR-gamma_evaluation**|[24]|602|2 |17.38|17.77|+|+|--|--|[Tox21_PPAR-gamma_evaluation](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Tox21_PPAR-gamma_evaluation.zip)|
-|**TRIANGLES**|[27]|45000|10|20.85|32.74|--|--|--|--|[TRIANGLES](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/TRIANGLES.zip)|
-|**tumblr_ct1**|[32]|373|2 |53.11|199.78|temporal|--|--|temporal|[tumblr_ct1](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/tumblr_ct1.zip)|
-|**tumblr_ct2**|[32]|373|2 |53.11|199.78|temporal|--|--|temporal|[tumblr_ct2](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/tumblr_ct2.zip)|
-|**twitch_egos**|[30]| 127094 |2|29.67| 86.59 |--|--|--|--|[twitch_egos](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/twitch_egos.zip)|
-|**TWITTER-Real-Graph-Partial**|[26]|144033|2 |4.03|4.98|+|--|--|+ (1)|[TWITTER-Real-Graph-Partial](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/TWITTER-Real-Graph-Partial.zip)|
 |**UACC257**|[28]| 39988 |2|26.09| 28.12 |+|+|--|--|[UACC257](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/UACC257.zip)|
 |**UACC257H**|[28]| 39988 |2|46.68| 48.71 |+|+|--|--|[UACC257H](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/UACC257H.zip)|
 |**Yeast**|[28]| 79601 |2|21.54| 22.84 |+|+|--|--|[Yeast](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Yeast.zip)|
@@ -139,10 +84,88 @@ permalink: /docs/datasets/
 |**ZINC_test**|[31]| 5000 |R (1)|23.10|24.83|+|+|--|--|[ZINC_test](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/ZINC_test.zip)|
 |**ZINC_train**|[31]| 220011 |R (1)|23.15|24.91|+|+|--|--|[ZINC_train](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/ZINC_train.zip)|
 |**ZINC_val**|[31]| 24445 |R (1)|23.13|24.88|+|+|--|--|[ZINC_val](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/ZINC_val.zip)|
-| -------- | ---------- | -------------- ||| --------------------- ||| ------------------ |
+
+## Bioinformatics
+| **Name** | **Source** | **Statistics** ||| **Labels/Attributes** ||||| **Download (ZIP)** |
+| --- |--- | --- |---|---| ---|  :---:|   :---:|   :---:|  :---:|  ---| 
+|         |          |*Graphs*|*Classes*|*Avg. Nodes*|*Avg. Edges*|*Node Labels*|*Edge Labels*|*Node Attr.*|*Edge Attr.*|
+| --- |--- | --- |---|---| ---|  :---:| :---:| :---: | :---: | --- |
+|**AIDS**|[16,17]| 2000 |2|15.69|16.20|+|+|+ (4)|--|[AIDS](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/AIDS.zip)|
+|**BZR**|[7]| 405 |2|35.75|38.36|+|--|+ (3)|--|[BZR](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/BZR.zip)|
+|**BZR_MD**|[7,23]| 306 |2|21.30|225.06|+|+|--|+ (1)|[BZR_MD](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/BZR_MD.zip)|
+|**COX2**|[7]| 467 |2|41.22 |43.45|+|--|+ (3)|--|[COX2](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/COX2.zip)|
+|**COX2_MD**|[7,23]| 303 |2|26.28|335.12|+|+|--|+ (1)|[COX2_MD](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/COX2_MD.zip)|
+|**DHFR**|[7]| 467 |2|42.43|44.54|+|--|+ (3)|--|[DHFR](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/DHFR.zip)|
+|**DHFR_MD**|[7,23]| 393 |2|23.87| 283.01|+|+|--|+ (1)|[DHFR_MD](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/DHFR_MD.zip)|
+|**ER_MD**|[7,23]| 446 |2| 21.33| 234.85 | +|+|--|+ (1)|[ER_MD](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/ER_MD.zip)|
+|**DD**|[6,22]| 1178 |2|284.32| 715.66|+|--|--|--|[DD](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/DD.zip)|
+|**ENZYMES**|[4,5]| 600 |6|32.63 | 62.14|+|--|+ (18)|--|[ENZYMES](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/ENZYMES.zip)|
+|**KKI**|[26]|83|2 |26.96|48.42|+|--|--|--|[KKI](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/KKI.zip)|
+|**OHSU**|[26]|79|2 |82.01|199.66|+|--|--|--|[OHSU](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/OHSU.zip)|
+|**Peking_1**|[26]|85|2 |39.31|77.35|+|--|--|--|[Peking_1](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Peking_1.zip)|
+|**PROTEINS**|[4,6]| 1113 |2|39.06|72.82|+|--|+ (1)|--|[PROTEINS](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/PROTEINS.zip)|
+|**PROTEINS_full**|[4,6]| 1113 |2|39.06|72.82|+|--|+ (29)|--|[PROTEINS_full](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/PROTEINS_full.zip)|
+
+## Computer vision
+| **Name** | **Source** | **Statistics** ||| **Labels/Attributes** ||||| **Download (ZIP)** |
+| --- |--- | --- |---|---| ---|  :---:|   :---:|   :---:|  :---:|  ---| 
+|         |          |*Graphs*|*Classes*|*Avg. Nodes*|*Avg. Edges*|*Node Labels*|*Edge Labels*|*Node Attr.*|*Edge Attr.*|
+| --- |--- | --- |---|---| ---|  :---:| :---:| :---: | :---: | --- |
+|**COIL-DEL**|[16,18]| 3900 |100| 21.54 | 54.24 |--|+|+ (2)|--|[COIL-DEL](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/COIL-DEL.zip)|
+|**COIL-RAG**|[16,18]| 3900 |100| 3.01 | 3.02 |--|--|+ (64)|+ (1)|[COIL-RAG](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/COIL-RAG.zip)|
+|**Cuneiform**|[25]| 267 |30|21.27|44.80|+|+|+ (3)|+ (2)|[Cuneiform](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Cuneiform.zip)|
+|**Fingerprint**|[16,19]| 2800 |4|5.42 | 4.42|--|--|+ (2)|+ (2)|[Fingerprint](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Fingerprint.zip)|
+|**FIRSTMM_DB**|[11,12,13]| 41 |11|1377.27| 3074.10|+|--|+ (1) |+ (2)|[FIRSTMM_DB](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/FIRSTMM_DB.zip)|
+|**Letter-high**|[16]| 2250 |15| 4.67 |4.50 |--|--|+ (2)|--|[Letter-high](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Letter-high.zip)|
+|**Letter-low**|[16]| 2250 |15| 4.68 |3.13 |--|--|+ (2)|--|[Letter-low](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Letter-low.zip)|
+|**Letter-med**|[16]| 2250 |15| 4.67 |4.50 |--|--|+ (2)|--|[Letter-med](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Letter-med.zip)|
+|**MSRC_9**|[13]| 221 |8|40.58| 97.94 |+|--|--|--|[MSRC_9](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/MSRC_9.zip)|
+|**MSRC_21**|[13]| 563 |20|77.52|198.32|+|--|--|--|[MSRC_21](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/MSRC_21.zip)|
+|**MSRC_21C**|[13]| 209 |20|40.28 | 96.60|+|--|--|--|[MSRC_21C](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/MSRC_21C.zip)|
+
+## Social networks
+| **Name** | **Source** | **Statistics** ||| **Labels/Attributes** ||||| **Download (ZIP)** |
+| --- |--- | --- |---|---| ---|  :---:|   :---:|   :---:|  :---:|  ---| 
+|         |          |*Graphs*|*Classes*|*Avg. Nodes*|*Avg. Edges*|*Node Labels*|*Edge Labels*|*Node Attr.*|*Edge Attr.*|
+| --- |--- | --- |---|---| ---|  :---:| :---:| :---: | :---: | --- |
+|**COLLAB**|[14]| 5000 |3|74.49 | 2457.78|--|--|--|--|[COLLAB](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/COLLAB.zip)|
+|**dblp_ct1**|[32]|755|2 |52.87|320.09|temporal|--|--|temporal|[dblp_ct1](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/dblp_ct1.zip)|
+|**dblp_ct2**|[32]|755|2 |52.87|320.09|temporal|--|--|temporal|[dblp_ct2](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/dblp_ct2.zip)|
+|**DBLP_v1**|[26]|19456|2 |10.48|19.65|+|+|--|--|[DBLP_v1](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/DBLP_v1.zip)|
+|**deezer_ego_nets**|[30]| 9629 |2|23.49| 65.25 |--|--|--|--|[deezer_ego_nets](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/deezer_ego_nets.zip)|
+|**facebook_ct1**|[32]|995|2 |95.72|269.01|temporal|--|--|temporal|[facebook_ct1](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/facebook_ct1.zip)|
+|**facebook_ct2**|[32]|995|2 |95.72|269.01|temporal|--|--|temporal|[facebook_ct2](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/facebook_ct2.zip)|
+|**github_stargazers**|[30]| 12725 |2|113.79| 234.64 |--|--|--|--|[github_stargazers](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/github_stargazers.zip)|
+|**highschool_ct1**|[32]|180|2 |52.32|544.81|temporal|--|--|temporal|[highschool_ct1](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/highschool_ct1.zip)|
+|**highschool_ct2**|[32]|180|2 |52.32|544.81|temporal|--|--|temporal|[highschool_ct2](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/highschool_ct2.zip)|
+|**IMDB-BINARY**|[14]| 1000 |2| 19.77 | 96.53 |--|--|--|--|[IMDB-BINARY](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/IMDB-BINARY.zip)|
+|**IMDB-MULTI**|[14]| 1500 |3| 13.00 | 65.94 |--|--|--|--|[IMDB-MULTI](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/IMDB-MULTI.zip)|
+|**infectious_ct1**|[32]|200|2 |50|459.72|temporal|--|--|temporal|[infectious_ct1](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/infectious_ct1.zip)|
+|**infectious_ct2**|[32]|200|2 |50|459.72|temporal|--|--|temporal|[infectious_ct2](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/infectious_ct2.zip)|
+|**mit_ct1**|[32]|97|2 |20|1469.15|temporal|--|--|temporal|[mit_ct1](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/mit_ct1.zip)|
+|**mit_ct2**|[32]|97|2 |20|1469.15|temporal|--|--|temporal|[mit_ct2](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/mit_ct2.zip)|
+|**REDDIT-BINARY**|[14]| 2000 |2| 429.63| 497.75 |--|--|--|--|[REDDIT-BINARY](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/REDDIT-BINARY.zip)|
+|**REDDIT-MULTI-5K**|[14]| 4999 | 5 |508.52 | 594.87 |--|--|--|--|[REDDIT-MULTI-5K](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/REDDIT-MULTI-5K.zip)|
+|**REDDIT-MULTI-12K**|[14]| 11929 | 11 | 391.41 | 456.89 |--|--|--|--|[REDDIT-MULTI-12K](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/REDDIT-MULTI-12K.zip)|
+|**reddit_threads**|[30]| 203088 |2|23.93| 24.99 |--|--|--|--|[reddit_threads](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/reddit_threads.zip)|
+|**tumblr_ct1**|[32]|373|2 |53.11|199.78|temporal|--|--|temporal|[tumblr_ct1](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/tumblr_ct1.zip)|
+|**tumblr_ct2**|[32]|373|2 |53.11|199.78|temporal|--|--|temporal|[tumblr_ct2](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/tumblr_ct2.zip)|
+|**twitch_egos**|[30]| 127094 |2|29.67| 86.59 |--|--|--|--|[twitch_egos](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/twitch_egos.zip)|
+|**TWITTER-Real-Graph-Partial**|[26]|144033|2 |4.03|4.98|+|--|--|+ (1)|[TWITTER-Real-Graph-Partial](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/TWITTER-Real-Graph-Partial.zip)|
+
+## Synthetic
+| **Name** | **Source** | **Statistics** ||| **Labels/Attributes** ||||| **Download (ZIP)** |
+| --- |--- | --- |---|---| ---|  :---:|   :---:|   :---:|  :---:|  ---| 
+|         |          |*Graphs*|*Classes*|*Avg. Nodes*|*Avg. Edges*|*Node Labels*|*Edge Labels*|*Node Attr.*|*Edge Attr.*|
+| --- |--- | --- |---|---| ---|  :---:| :---:| :---: | :---: | --- |
+|**COLORS-3**|[27]|10500|11|61.31|91.03|--|--|+ (4)|--|[COLORS-3](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/COLORS-3.zip)|
+|**SYNTHETIC**|[3]| 300 |2|100.00| 196.00|--|--|+ (1)|--|[SYNTHETIC](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/SYNTHETIC.zip)|
+|**SYNTHETICnew**|[3,10]| 300 |2|100.00| 196.25|--|--|+ (1)|--|[SYNTHETICnew](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/SYNTHETICnew.zip)|
+|**Synthie**|[21]| 400 |4|95.00| 172.93|--|--|+ (15)|--|[Synthie](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Synthie.zip)|
+|**TRIANGLES**|[27]|45000|10|20.85|32.74|--|--|--|--|[TRIANGLES](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/TRIANGLES.zip)|
+
+## All Data Sets
+
 **All Data Sets** | |||||||||[All](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/DS_all.zip)|
 
-
-
 R(N) are regression datasets with N tasks per graph.
-
