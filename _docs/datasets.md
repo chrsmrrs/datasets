@@ -9,10 +9,10 @@ permalink: /docs/datasets/
 | --- |--- | --- |---|---| ---|  :---:|   :---:|   :---:|  :---:|  ---| 
 |         |          |*Graphs*|*Classes*|*Avg. Nodes*|*Avg. Edges*|*Node Labels*|*Edge Labels*|*Node Attr.*|*Edge Attr.*|
 | --- |--- | --- |---|---| ---|  :---:| :---:| :---: | :---: | --- |
-|**alchemy_dev**|[29]| 99776 |R (12)|9.71|10.02|+|+|+ (3)|--|[alchemy_dev](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/alchemy_dev.zip)|
+<!-- |**alchemy_dev**|[29]| 99776 |R (12)|9.71|10.02|+|+|+ (3)|--|[alchemy_dev](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/alchemy_dev.zip)|-->
 |**alchemy_full**|[29]| 202579 | R (12)|10.10|10.44|+|+|+ (3)|--|[alchemy_full](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/alchemy_full.zip)|
-|**alchemy_test**|[29]| 15760 |--|11.25|11.76|+|+|+ (3)|--|[alchemy_test](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/alchemy_test.zip)|
-|**alchemy_valid**|[29]| 3951 |R (12)|11.25        |11.77      |+|+|+ (3)|--|[alchemy_valid](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/alchemy_valid.zip)|
+<!-- |**alchemy_test**|[29]| 15760 |--|11.25|11.76|+|+|+ (3)|--|[alchemy_test](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/alchemy_test.zip)| -->
+<!-- |**alchemy_valid**|[29]| 3951 |R (12)|11.25        |11.77      |+|+|+ (3)|--|[alchemy_valid](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/alchemy_valid.zip)| -->
 |**FRANKENSTEIN**|[15]| 4337 | 2 |16.90| 17.88 |--|--|+ (780) |--|[FRANKENSTEIN](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/FRANKENSTEIN.zip)|
 |**MCF-7**|[28]| 27770 |2|26.39| 28.52 |+|+|--|--|[MCF-7](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/MCF-7.zip)|
 |**MCF-7H**|[28]| 27770 |2|47.30| 49.43 |+|+|--|--|[MCF-7H](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/MCF-7H.zip)|
