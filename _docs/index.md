@@ -26,22 +26,12 @@ Please refer to our website at [graphlearning.io](http://www.graphlearning.io/) 
 
 ```
 @misc{KKMMN2016,
-  title  = {Benchmark Data Sets for Graph Kernels},
-  author = {Kristian Kersting and Nils M. Kriege and Christopher Morris and Petra Mutzel and Marion Neumann},
+  title  = {TUDataset: A collection of benchmark datasets for learning with graphs},
+  author = {Christopher Morris,  Nils M. Kriege, Franka Bause, Kristian Kersting, Petra Mutzel, Marion Neumann},
   year   = {2020},
   url    = {http://www.graphlearning.io/}
 }
 ```
 
-If your bibliography style does not support the url field, you may use this alternative:
-
-```
-@misc{KKMMN2016,
-  title  = {Benchmark Data Sets for Graph Kernels},
-  author = {Kristian Kersting and Nils M. Kriege and Christopher Morris and Petra Mutzel and Marion Neumann},
-  year   = {2020},
-  note   = {http://www.graphlearning.io/}
-}
-```
 
 **Please do not forget to cite the original paper when using a specific dataset.**
