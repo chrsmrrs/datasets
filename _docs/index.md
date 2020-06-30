@@ -22,7 +22,7 @@ redirect_from: /docs/index.html
 
 
 ## Citing this Website
-We encourage you to refer to our website at [graphlearning.io](http://www.graphlearning.io/) if you have used the datasets for your publication. Please use the following BibTeX citation:
+Please refer to our website at [graphlearning.io](http://www.graphlearning.io/) if you have used the datasets for your publication. Please use the following BibTeX citation:
 
 ```
 @misc{KKMMN2016,
@@ -44,3 +44,4 @@ If your bibliography style does not support the url field, you may use this alte
 }
 ```
 
+**Please do not forget to cite the original paper when using a specific dataset.**

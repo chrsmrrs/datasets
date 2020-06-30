@@ -63,16 +63,29 @@ Feb. 1996.
 
 [24] [Tox21 Data Challenge 2014](https://tripod.nih.gov/tox21/challenge/data.jsp)
 
-[25] Nils M. Kriege, Matthias Fey, Denis Fisseler, Petra Mutzel, Frank Weichert. [ Recognizing Cuneiform Signs Using Graph Based Methods](http://proceedings.mlr.press/v88/kriege18a.html). International Workshop on Cost-Sensitive Learning (COST), SIAM International Conference on Data Mining (SDM) 2018, 31-44.
+[25] Nils M. Kriege, Matthias Fey, Denis Fisseler, Petra Mutzel, Frank Weichert. [Recognizing Cuneiform Signs Using Graph Based Methods](http://proceedings.mlr.press/v88/kriege18a.html). International Workshop on Cost-Sensitive Learning (COST), SIAM International Conference on Data Mining (SDM) 2018, 31-44.
 
 [26] [ A Repository of Benchmark Graph Datasets for Graph Classification](https://github.com/shiruipan/graph_datasets)
 
-[27] Boris Knyazev, Graham W. Taylor, Mohamed R. Amer. [Understanding Attention and Generalization in Graph Neural Networks](https://arxiv.org/abs/1905.02850)
+[27] Boris Knyazev, Graham W. Taylor, Mohamed R. Amer. [Understanding Attention and Generalization in Graph Neural Networks](https://arxiv.org/abs/1905.02850). Neural Information Processing Systems (NeurIPS) 2019, 4204-4214.
 
-[28] [Chemical DataSets](https://sites.cs.ucsb.edu/~xyan/dataset.htm)
+[28] Xifeng Yan, Hong Cheng, Jiawei Han, Philip S. Yu. [Mining Significant Graph Patterns by Leap Search](https://doi.org/10.1145/1376616.1376662). ACM SIGMOD International Conference on Management of Data 2008, 433–444,
+[Chemical Datasets](https://sites.cs.ucsb.edu/~xyan/dataset.htm).
 
-[29] [ Alchemy: A Quantum Chemistry Dataset for Benchmarking AI Models](https://arxiv.org/abs/1906.09427)
+[29] [Alchemy: A Quantum Chemistry Dataset for Benchmarking AI Models](https://arxiv.org/abs/1906.09427)
 
 [30] [An API Oriented Open-source Python Framework for Unsupervised Learning on Graphs](https://github.com/benedekrozemberczki/karateclub)
 
 [31] Xavier Bresson, Thomas Laurent. [A Two-Step Graph Convolutional Decoder for Molecule Generation](https://ml4physicalsciences.github.io/files/NeurIPS_ML4PS_2019_93.pdf). Workshop on Machine Learning and the Physical Sciences. 2019.
+
+[32] Lutz Oettershagen, Nils Kriege, Christopher Morris, Petra Mutzel. [Temporal Graph Kernels for Classifying Dissemination Processes](https://arxiv.org/pdf/1911.05496.pdf). SIAM International Conference on Data Mining (SDM) 2020.
+
+[33] https://pytorch-geometric.readthedocs.io/en/latest/modules/datasets.html
+
+[34]  Zhenqin Wu, Bharath Ramsundar, Evan Feinberg, Joseph Gomes, Caleb Geniesse, Aneesh Pappu, Karl Leswing, Vijay Pande.
+[MoleculeNet: A Benchmark for Molecular Machine Learning](https://arxiv.org/abs/1703.00564). Chemical Science. 9. 2017.
+
+[35] Raghunathan Ramakrishnan, Pavlo Dral, Matthias Rupp, O. Anatole von Lilienfeld.
+[Quantum Chemistry Structures and Properties of 134 kilo Molecules](https://www.researchgate.net/publication/274256239_Quantum_chemistry_structures_and_properties_of_134_kilo_molecules), Scientific Data
+1: 140022, 2014.
+
