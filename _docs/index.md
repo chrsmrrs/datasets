@@ -27,7 +27,7 @@ Please refer to our website at [graphlearning.io](http://www.graphlearning.io/) 
 ```
 @misc{KKMMN2016,
   title  = {TUDataset: A collection of benchmark datasets for learning with graphs},
-  author = {Christopher Morris,  Nils M. Kriege, Franka Bause, Kristian Kersting, Petra Mutzel, Marion Neumann},
+  author = {Christopher Morris and  Nils M. Kriege and Franka Bause and Kristian Kersting and Petra Mutzel and Marion Neumann},
   year   = {2020},
   url    = {http://www.graphlearning.io/}
 }
