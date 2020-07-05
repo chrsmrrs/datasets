@@ -25,11 +25,13 @@ redirect_from: /docs/index.html
 Please refer to our website at [graphlearning.io](http://www.graphlearning.io/) if you have used the datasets for your publication. Please use the following BibTeX citation:
 
 ```
-@misc{KKMMN2016,
-  title  = {TUDataset: A collection of benchmark datasets for learning with graphs},
-  author = {Christopher Morris and  Nils M. Kriege and Franka Bause and Kristian Kersting and Petra Mutzel and Marion Neumann},
-  year   = {2020},
-  url    = {http://www.graphlearning.io/}
+@inproceedings{Morris+2020,
+    title={TUDataset: A collection of benchmark datasets for learning with graphs},
+    author={Christopher Morris and Nils M. Kriege and Franka Bause and Kristian Kersting and Petra Mutzel and Marion Neumann},
+    booktitle={ICML 2020 Workshop on Graph Representation Learning and Beyond (GRL+ 2020)},
+    pages={},
+    url = {www.graphlearning.io}
+    year={2020}
 }
 ```
 
