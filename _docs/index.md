@@ -30,7 +30,7 @@ Please refer to our website at [graphlearning.io](http://www.graphlearning.io/) 
     author={Christopher Morris and Nils M. Kriege and Franka Bause and Kristian Kersting and Petra Mutzel and Marion Neumann},
     booktitle={ICML 2020 Workshop on Graph Representation Learning and Beyond (GRL+ 2020)},
     pages={},
-    url = {www.graphlearning.io}
+    url={www.graphlearning.io}
     year={2020}
 }
 ```
