@@ -1,6 +1,6 @@
 ---
-title: Documentation
-permalink: /docs/documentation/
+title: Evaluation procedures
+permalink: /docs/evaluation/
 ---
 
 In the following, we give a short overview on how to use the datasets together with the kernel and GNN baselines and standardized evaluation methods. 
