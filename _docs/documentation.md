@@ -8,5 +8,9 @@ First follow the instruction on [github.com/chrsmrrs/tudataset](https://github.c
 
 ### Kernel baselines and 10-CV using SVMs
 
+TODO
+
 
 ### GNNs baselines and 10-CV evaluation
+
+TODO
