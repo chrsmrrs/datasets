@@ -80,6 +80,7 @@ The experiment is repeated ten times and the average accuracy, the standard devi
 
 ```python
 all_matrices = []
+num_reps = 10
 
 # 1-WL kernel, number of iterations in [1:6].
 for i in range(1, 6):
@@ -106,9 +107,21 @@ accuracy, std_10, std_100 = linear_svm_evaluation(feature_vectors, classes, num_
 
 ### GNNs baselines and 10-CV evaluation
 
-TODO
+Here, we show how to optimize the hyperparameters (number of layers  in {1,2,3,4,5}, hidden dimension {32,64,128}) of the GIN layer [5] using 10-CV.
 
+```python
+import auxiliarymethods.datasets as dp
+from auxiliarymethods.gnn_evaluation import gnn_evaluation
+from gnn_baselines.gnn_architectures import GIN, GINE, GINEWithJK, GINWithJK
 
+use_labels, use_edge_labels = True, False
+dataset = "ENZYMES"
+
+dp.get_dataset(dataset)
+
+accuracy, std_10, std_100 = gnn_evaluation(GIN, dataset, [1, 2, 3, 4, 5], [32, 64, 128], max_num_epochs=200, batch_size=64,
+                               start_lr=0.01, num_repetitions=num_reps, all_std=True)
+```
 
 ### Bibliograpphy
 
@@ -119,3 +132,5 @@ TODO
 [3] https://ieeexplore.ieee.org/document/1565664
 
 [4] https://papers.nips.cc/paper/6166-on-valid-optimal-assignment-kernels-and-applications-to-graph-classification.pdf
+
+[5] https://openreview.net/forum?id=ryGs6iA5Km
