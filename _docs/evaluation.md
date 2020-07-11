@@ -74,9 +74,9 @@ gram_matrix = kb.compute_wloa_dense(dataset, use_labels, use_edge_labels)
 
 #### SVM evaluation
 
-Here, we show how to jointly optimize the number of iterations of the 1-WL and the `C` parameter using 10-CV. See the paper details on the evaluation procedure.
-The following code compute compute the 1-WL for 1 to 6 iterations, and applies cosine normalization. The number of iterations are then jointly optimized with the `C` parameter (`C=[10**3, 10**2, 10** 1, 10**0, 10**-1, 10**-2, 10**-3]`).
-The experiment is repeated 10 times and the average accuracy, the standard deviations over all 10 10-CV runs and all 100 runs are output.
+Here, we show how to jointly optimize the number of iterations of the 1-WL and the `C` parameter of the (dual) SVM using 10-CV. See the paper on details on the evaluation procedure.
+The following code computes the 1-WL for 1 to 6 iterations, and applies cosine normalization. The number of iterations are then jointly optimized with the `C` parameter (`C=[10**3, 10**2, 10** 1, 10**0, 10**-1, 10**-2, 10**-3]`) using 10-CV.
+The experiment is repeated ten times and the average accuracy, the standard deviations over all ten 10-CV runs and all 100 runs are output.
 
 ```python
 all_matrices = []
