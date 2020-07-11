@@ -41,16 +41,39 @@ gram_matrix = kb.compute_wl_1_dense(dataset, iterations, use_labels, use_edge_la
 
 Instead of computing the Gram matrix, we can skip Gram matrix computation and output a `scipy.sparse.csr_matrix` feature vector for each graph by replacing the last line by
 ```python
-feature_vectors = kb.compute_wl_1_dense(dataset, iterations, use_labels, use_edge_labels)
+feature_vectors = kb.compute_wl_1_sparse(dataset, iterations, use_labels, use_edge_labels)
 ```
-
 
 #### Graphlet kernel
 
+Similarly, the Gram matrix for the Graphlet kernel can be computed by
+```python
+gram_matrix = kb.compute_graphlet_dense(dataset, use_labels, use_edge_labels)
+```
+
+The sparse feature vectors can be computed by
+```python
+feature_vectors = kb.compute_graphlet_sparse(dataset, use_labels, use_edge_labels)
+```
+
 #### Shortest-path kernels
+
+The Gram matrix for the Shortest-path kernel can be computed by
+```python
+gram_matrix = kb.compute_graphlet_dense(dataset, use_labels, use_edge_labels)
+```
+
+The sparse feature vectors can be computed by
+```python
+feature_vectors = kb.compute_graphlet_sparse(dataset, use_labels, use_edge_labels)
+```
 
 #### Weisfeiler-Lehman optimal assignment kernel
 
+Similarly, the Gram matrix for the WL-OA kernel can be computed by
+```python
+gram_matrix = kb.compute_wloa_dense(dataset, use_labels, use_edge_labels)
+```
 
 #### SVM evaluation
 
