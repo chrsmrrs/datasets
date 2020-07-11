@@ -125,6 +125,11 @@ accuracy, std_10, std_100 = gnn_evaluation(GIN, dataset, [1, 2, 3, 4, 5], [32, 6
 TODO: Add more details!
 
 
+### Loading the graphs as NetworkX graphs
+
+TODO
+
+
 ### Bibliograpphy
 
 [1] http://www.jmlr.org/papers/volume12/shervashidze11a/shervashidze11a.pdf
