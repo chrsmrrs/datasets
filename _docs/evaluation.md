@@ -4,7 +4,7 @@ permalink: /docs/evaluation/
 ---
 
 In the following, we give a short overview on how to use the datasets together with the graph kernel and GNN baselines and standardized evaluation methods. 
-First follow the instruction on [github.com/chrsmrrs/tudataset](https://github.com/chrsmrrs/tudataset) to install the TUDataset Python package. 
+First, follow the instruction on [github.com/chrsmrrs/tudataset](https://github.com/chrsmrrs/tudataset) to install the TUDataset Python package. 
 
 Throughout this tutorial, we assume that your base directory is `tudataset/tud_benchmark/`.
 
@@ -112,10 +112,10 @@ TODO
 
 ### Bibliograpphy
 
-[1] 
+[1] http://www.jmlr.org/papers/volume12/shervashidze11a/shervashidze11a.pdf
 
-[2]
+[2] http://proceedings.mlr.press/v5/shervashidze09a/shervashidze09a.pdf
 
-[3]
+[3] https://ieeexplore.ieee.org/document/1565664
 
-[4]
+[4] https://papers.nips.cc/paper/6166-on-valid-optimal-assignment-kernels-and-applications-to-graph-classification.pdf
