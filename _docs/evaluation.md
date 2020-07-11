@@ -1,5 +1,5 @@
 ---
-title: Tutorial: Evaluation procedures
+title: Tutorial: Baseline and evaluation procedures
 permalink: /docs/evaluation/
 ---
 
