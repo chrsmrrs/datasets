@@ -123,6 +123,9 @@ accuracy, std_10, std_100 = gnn_evaluation(GIN, dataset, [1, 2, 3, 4, 5], [32, 6
                                start_lr=0.01, num_repetitions=num_reps, all_std=True)
 ```
 
+TODO: Add more details!
+
+
 ### Bibliograpphy
 
 [1] http://www.jmlr.org/papers/volume12/shervashidze11a/shervashidze11a.pdf
