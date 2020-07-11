@@ -119,8 +119,7 @@ dataset = "ENZYMES"
 
 dp.get_dataset(dataset)
 
-accuracy, std_10, std_100 = gnn_evaluation(GIN, dataset, [1, 2, 3, 4, 5], [32, 64, 128], max_num_epochs=200, batch_size=64,
-                               start_lr=0.01, num_repetitions=num_reps, all_std=True)
+accuracy, std_10, std_100 = gnn_evaluation(GIN, dataset, [1, 2, 3, 4, 5], [32, 64, 128], max_num_epochs=200, batch_size=64, start_lr=0.01, num_repetitions=num_reps, all_std=True)
 ```
 
 TODO: Add more details!
