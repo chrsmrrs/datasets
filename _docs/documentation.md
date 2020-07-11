@@ -9,18 +9,18 @@ permalink: /docs/evaluation/
 In the following, we give a short overview on how to use the datasets together with the graph kernel and GNN baselines and standardized evaluation methods. 
 First follow the instruction on [github.com/chrsmrrs/tudataset](https://github.com/chrsmrrs/tudataset) to install the TUDataset Python package. 
 
-Throught this tutorial, we assume that your base directiory is tudataset/tud_benchmark/`.
+Throught this tutorial, we assume that your base directiory is `tudataset/tud_benchmark/`.
 
 ### Kernel baselines and 10-CV using SVMs
 
-We provide the following Python-wrapped C++ implementations of the following kernels:
-- Weisfeiler-Lehman subtree kernel (1-WL) [1]
-- Graphlet kernel [2]
-- Shortest-path kernels [3]
-- Weisfeiler-Lehman optimal assignment kernel [4]
+We provide  Python-wrapped C++ implementations of the following kernels:
+- Weisfeiler-Lehman subtree kernel (1-WL) [1],
+- Graphlet kernel (GR) [2],
+- Shortest-path kernels (SP) [3],
+- Weisfeiler-Lehman optimal assignment kernel (WL-OA) [4]
 
 
-For the  first three kernels, we provide, both, Gram matrix output (`numpy.array`, `[n,n]`) and sparse feature vector output (`scipy.sparse.csr_matrix`, `[n,d]).
+For the  first three kernels, we provide, both, Gram matrix output (`numpy.array`, `[n,n]`) and sparse feature vector output (`scipy.sparse.csr_matrix`, `[n,d]`).
 
 #### Weisfeiler-Lehman subtree kernel
 
