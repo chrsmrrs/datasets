@@ -70,7 +70,7 @@ feature_vectors = kb.compute_graphlet_sparse(dataset, use_labels, use_edge_label
 
 #### Weisfeiler-Lehman optimal assignment kernel
 
-Similarly, the Gram matrix for the WL-OA kernel can be computed by
+The Gram matrix for the WL-OA kernel can be computed by
 ```python
 gram_matrix = kb.compute_wloa_dense(dataset, use_labels, use_edge_labels)
 ```
