@@ -107,12 +107,12 @@ accuracy, std_10, std_100 = linear_svm_evaluation(feature_vectors, classes, num_
 
 ### GNNs baselines and 10-CV evaluation
 
-Here, we show how to optimize the hyperparameters (number of layers  in {1,2,3,4,5}, hidden dimension {32,64,128}) of the GIN layer [5] using 10-CV.
+Here, we show how to optimize the hyperparameters (number of layers  in `{1,2,3,4,5}`, hidden dimension `{32,64,128}`) of the GIN layer [5] using 10-CV.
 
-```python
+````python
 import auxiliarymethods.datasets as dp
 from auxiliarymethods.gnn_evaluation import gnn_evaluation
-from gnn_baselines.gnn_architectures import GIN, GINE, GINEWithJK, GINWithJK
+from gnn_baselines.gnn_architectures import GIN
 
 use_labels, use_edge_labels = True, False
 dataset = "ENZYMES"
