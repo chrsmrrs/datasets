@@ -76,7 +76,7 @@ gram_matrix = kb.compute_wloa_dense(dataset, use_labels, use_edge_labels)
 
 Here, we show how to jointly optimize the number of iterations of the 1-WL and the `C` parameter using 10-CV. See the paper details on the evaluation procedure.
 The following code compute compute the 1-WL for 1 to 6 iterations, and applies cosine normalization. The number of iterations are then jointly optimized with the `C` parameter (`C=[10**3, 10**2, 10** 1, 10**0, 10**-1, 10**-2, 10**-3]`).
-The experiment is repeated 10 times and the average accuracy, the standard deviations over all 10 10-CV runs and all 100 runs is outputtet.
+The experiment is repeated 10 times and the average accuracy, the standard deviations over all 10 10-CV runs and all 100 runs are output.
 
 ```python
 all_matrices = []
@@ -84,12 +84,24 @@ all_matrices = []
 # 1-WL kernel, number of iterations in [1:6].
 for i in range(1, 6):
     gm = kb.compute_wl_1_dense(dataset, i, use_labels, use_edge_labels)
-    # Cosine normaliziation.
+    # Cosine normalization.
     gm = aux.normalize_gram_matrix(gm)
     all_matrices.append(gm)
 
 accuracy, std_10, std_100 = kernel_svm_evaluation(all_matrices, classes, num_repetitions=num_reps, all_std=True)
+```
+Similarly, we can do the same for sparse feature vectors using a linear SVM.
+```python
+feature_vectors = []
 
+# 1-WL feature vectors, number of iterations in [1:6].
+for i in range(1, 6):
+    fv = kb.compute_wl_1_sparse(dataset, i, use_labels, use_edge_labels)
+    # \ell_2 normalization.
+    fv = aux.normalize_feature_vector(fv)
+    feature_vectors.append(fv)
+
+accuracy, std_10, std_100 = linear_svm_evaluation(feature_vectors, classes, num_repetitions=num_reps, all_std=True)
 ```
 
 ### GNNs baselines and 10-CV evaluation
