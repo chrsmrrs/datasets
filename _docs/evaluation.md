@@ -106,6 +106,8 @@ for i in range(1, 6):
 accuracy, std_10, std_100 = linear_svm_evaluation(feature_vectors, classes, num_repetitions=num_reps, all_std=True)
 ```
 
+See `main_kernel.py` for more examples.
+
 ### GNNs baselines and 10-CV evaluation
 
 Here, we show how to optimize the hyperparameters (number of layers  in `{1,2,3,4,5}`, hidden dimension `{32,64,128}`) of the GIN layer [5] using 10-CV.
@@ -125,6 +127,8 @@ accuracy, std_10, std_100 = gnn_evaluation(GIN, dataset, [1, 2, 3, 4, 5], [32, 6
 
 TODO: Add exampple for datasets with edge labels. 
 TODO: Add more details!
+
+See `main_gnn.py` for more examples.
 
 
 ### Loading the graphs as NetworkX graphs
