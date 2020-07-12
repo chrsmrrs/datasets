@@ -3,7 +3,7 @@ title: Tutorial on baseline and evaluation procedures
 permalink: /docs/evaluation/
 ---
 
-In the following, we give a short overview on how to use the datasets together with the graph kernel and GNN baselines and standardized evaluation methods. 
+In the following, we give a short overview on how to use the dataset collection together with the graph kernel and GNN baselines and standardized evaluation methods. 
 First, follow the instruction on [github.com/chrsmrrs/tudataset](https://github.com/chrsmrrs/tudataset) to install the TUDataset Python package. 
 
 Throughout this tutorial, we assume that your base directory is `tudataset/tud_benchmark/`.
@@ -21,8 +21,8 @@ For the  first three kernels, we provide, both, Gram matrix output (`numpy.array
 
 #### Weisfeiler-Lehman subtree kernel
 
-The following code will download the `ENZYMES` dataset, compute the 1-WL for `3` iterations using the discrete node labels of the dataset, and output the Gram matrix as a `numpy.array`.
-
+The following code will download the `ENZYMES` dataset, compute the 1-WL for `3` iterations using the discrete node labels of the dataset, and output the Gram matrix as a `numpy.array`. 
+Since the dataset does not provide edge labels we set `se_edge_labels = False`
 ```python
 import kernel_baselines as kb
 import auxiliarymethods.datasets as dp
@@ -30,13 +30,14 @@ import auxiliarymethods.datasets as dp
 use_labels, use_edge_labels = True, False
 dataset = "ENZYMES"
 
+# Download dataset.
 classes = dp.get_dataset(dataset)
 
 iterations = 3
 gram_matrix = kb.compute_wl_1_dense(dataset, iterations, use_labels, use_edge_labels)
 ```
 
-Instead of computing the Gram matrix, we can skip Gram matrix computation and output a `scipy.sparse.csr_matrix` feature vector for each graph by replacing the last line by
+Instead of computing the Gram matrix, we can skip its computation and output a `scipy.sparse.csr_matrix` feature vector for each graph by replacing the last line by
 ```python
 feature_vectors = kb.compute_wl_1_sparse(dataset, iterations, use_labels, use_edge_labels)
 ```
@@ -53,7 +54,7 @@ The sparse feature vectors can be computed by
 feature_vectors = kb.compute_graphlet_sparse(dataset, use_labels, use_edge_labels)
 ```
 
-#### Shortest-path kernels
+#### Shortest-path kernel
 
 The Gram matrix for the Shortest-path kernel can be computed by
 ```python
@@ -75,8 +76,8 @@ gram_matrix = kb.compute_wloa_dense(dataset, use_labels, use_edge_labels)
 #### SVM evaluation
 
 Here, we show how to jointly optimize the number of iterations of the 1-WL and the `C` parameter of the (dual) SVM using 10-CV. See the paper on details on the evaluation procedure.
-The following code computes the 1-WL for `1` to `6` iterations, and applies cosine normalization. The number of iterations are then jointly optimized with the `C` parameter (`C=[10**3, 10**2, 10** 1, 10**0, 10**-1, 10**-2, 10**-3]`) using 10-CV.
-The experiment is repeated ten times and the average accuracy, the standard deviations over all ten 10-CV runs and all `100` runs are output.
+The following code computes the 1-WL for `1` to `6` iterations, and applies cosine normalization. The number of iterations is then jointly optimized with the `C` parameter (`C=[10**3, 10**2, 10** 1, 10**0, 10**-1, 10**-2, 10**-3]`) using 10-CV.
+The experiment is repeated `10` times and the average accuracy, the standard deviations over all `10` 10-CV runs and all `100` runs are output.
 
 ```python
 all_matrices = []
