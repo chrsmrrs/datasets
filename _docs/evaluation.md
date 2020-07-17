@@ -141,8 +141,20 @@ See `main_gnn.py` for more examples. More compatible GNN layers are available fr
 
 ### Loading the graphs as NetworkX graphs
 
-TODO
+```python
+import auxiliarymethods.datasets as dp
+from auxiliarymethods.reader import tud_to_networkx
 
+dataset = "PROTEINS"
+
+# Download dataset.
+dp.get_dataset(dataset)
+# Output dataset as a list of graphs.
+graph_db = tud_to_networkx(dataset)
+```
+
+
+TODO: Add details on how to access label information.
 
 ### Bibliograpphy
 
