@@ -31,7 +31,7 @@ permalink: /docs/datasets/
 |**PTC_FR**|[2,23]| 351 |2|14.56| 15.00|+|+|--|--|[PTC_FR](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/PTC_FR.zip)|
 |**PTC_MM**|[2,23]| 336 |2|13.97 | 14.32|+|+|--|--|[PTC_MM](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/PTC_MM.zip)|
 |**PTC_MR**|[2,23]| 344 |2|14.29| 14.69|+|+|--|--|[PTC_MR](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/PTC_MR.zip)|
-|**QM9**|[33,34,35]| 129433|R(19)|18.03|18.63|--|--|+ (16)|+ (4)|[QM9](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/QM9.zip)|
+|**QM9**|[33,34,35]| 129433|R (19)|18.03|18.63|--|--|+ (16)|+ (4)|[QM9](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/QM9.zip)|
 |**SF-295**|[28]| 40271 |2|26.06| 28.08 |+|+|--|--|[SF-295](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/SF-295.zip)|
 |**SF-295H**|[28]| 40271 |2|46.65| 48.68 |+|+|--|--|[SF-295H](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/SF-295H.zip)|
 |**SN12C**|[28]| 40004 |2|26.08| 28.11 |+|+|--|--|[SN12C](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/SN12C.zip)|
