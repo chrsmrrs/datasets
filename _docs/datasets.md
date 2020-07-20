@@ -98,7 +98,7 @@ permalink: /docs/datasets/
 |**DHFR_MD**|[7,23]| 393 |2|23.87| 283.01|+|+|--|+ (1)|[DHFR_MD](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/DHFR_MD.zip)|
 |**ER_MD**|[7,23]| 446 |2| 21.33| 234.85 | +|+|--|+ (1)|[ER_MD](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/ER_MD.zip)|
 |**DD**|[6,22]| 1178 |2|284.32| 715.66|+|--|--|--|[DD](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/DD.zip)|
-|**ENZYMES**|[4,5]| 600 |6|32.63 | 62.14|+|--|+ (18)|--|[ENZYMES](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/ENZYMES.zip)|
+|**ENZYMES**|[4,5]| 600 |6|32.63 | 62.14|+|--|+ (18)|--|[ENZYMES](http://www.chrsmrrs.com/graphkerneldatasets/ENZYMES.zip)|
 |**KKI**|[26]|83|2 |26.96|48.42|+|--|--|--|[KKI](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/KKI.zip)|
 |**OHSU**|[26]|79|2 |82.01|199.66|+|--|--|--|[OHSU](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/OHSU.zip)|
 |**Peking_1**|[26]|85|2 |39.31|77.35|+|--|--|--|[Peking_1](https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/Peking_1.zip)|
