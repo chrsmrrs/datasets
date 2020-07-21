@@ -22,7 +22,7 @@ redirect_from: /docs/index.html
 
 
 ## Citing this Website
-Please refer to our website at [graphlearning.io](http://www.graphlearning.io/) if you have used the datasets for your publication. Please use the following BibTeX citation:
+If you have used the datasets for your publication, please refer to [graphlearning.io](http://www.graphlearning.io/) and cite the TUDataset paper:
 
 ```
 @inproceedings{Morris+2020,
