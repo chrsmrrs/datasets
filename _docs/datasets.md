@@ -9,7 +9,15 @@ permalink: /docs/datasets/
 | --- |--- | --- |---|---| ---|  :---:|   :---:|   :---:|  :---:|  ---| 
 |         |          |*Graphs*|*Classes*|*Avg. Nodes*|*Avg. Edges*|*Node Labels*|*Edge Labels*|*Node Attr.*|*Edge Attr.*|
 | --- |--- | --- |---|---| ---|  :---:| :---:| :---: | :---: | --- |
+|**AIDS**|[16,17]| 2000 |2|15.69|16.20|+|+|+ (4)|--|[AIDS](https://www.chrsmrrs.com/graphkerneldatasets/AIDS.zip)|
 |**alchemy_full**|[29]| 202579 | R (12)|10.10|10.44|+|+|+ (3)|--|[alchemy_full](https://www.chrsmrrs.com/graphkerneldatasets/alchemy_full.zip)|
+|**BZR**|[7]| 405 |2|35.75|38.36|+|--|+ (3)|--|[BZR](https://www.chrsmrrs.com/graphkerneldatasets/BZR.zip)|
+|**BZR_MD**|[7,23]| 306 |2|21.30|225.06|+|+|--|+ (1)|[BZR_MD](https://www.chrsmrrs.com/graphkerneldatasets/BZR_MD.zip)|
+|**COX2**|[7]| 467 |2|41.22 |43.45|+|--|+ (3)|--|[COX2](https://www.chrsmrrs.com/graphkerneldatasets/COX2.zip)|
+|**COX2_MD**|[7,23]| 303 |2|26.28|335.12|+|+|--|+ (1)|[COX2_MD](https://www.chrsmrrs.com/graphkerneldatasets/COX2_MD.zip)|
+|**DHFR**|[7]| 467 |2|42.43|44.54|+|--|+ (3)|--|[DHFR](https://www.chrsmrrs.com/graphkerneldatasets/DHFR.zip)|
+|**DHFR_MD**|[7,23]| 393 |2|23.87| 283.01|+|+|--|+ (1)|[DHFR_MD](https://www.chrsmrrs.com/graphkerneldatasets/DHFR_MD.zip)|
+|**ER_MD**|[7,23]| 446 |2| 21.33| 234.85 | +|+|--|+ (1)|[ER_MD](https://www.chrsmrrs.com/graphkerneldatasets/ER_MD.zip)|
 |**FRANKENSTEIN**|[15]| 4337 | 2 |16.90| 17.88 |--|--|+ (780) |--|[FRANKENSTEIN](https://www.chrsmrrs.com/graphkerneldatasets/FRANKENSTEIN.zip)|
 |**MCF-7**|[28]| 27770 |2|26.39| 28.52 |+|+|--|--|[MCF-7](https://www.chrsmrrs.com/graphkerneldatasets/MCF-7.zip)|
 |**MCF-7H**|[28]| 27770 |2|47.30| 49.43 |+|+|--|--|[MCF-7H](https://www.chrsmrrs.com/graphkerneldatasets/MCF-7H.zip)|
@@ -89,14 +97,6 @@ permalink: /docs/datasets/
 | --- |--- | --- |---|---| ---|  :---:|   :---:|   :---:|  :---:|  ---| 
 |         |          |*Graphs*|*Classes*|*Avg. Nodes*|*Avg. Edges*|*Node Labels*|*Edge Labels*|*Node Attr.*|*Edge Attr.*|
 | --- |--- | --- |---|---| ---|  :---:| :---:| :---: | :---: | --- |
-|**AIDS**|[16,17]| 2000 |2|15.69|16.20|+|+|+ (4)|--|[AIDS](https://www.chrsmrrs.com/graphkerneldatasets/AIDS.zip)|
-|**BZR**|[7]| 405 |2|35.75|38.36|+|--|+ (3)|--|[BZR](https://www.chrsmrrs.com/graphkerneldatasets/BZR.zip)|
-|**BZR_MD**|[7,23]| 306 |2|21.30|225.06|+|+|--|+ (1)|[BZR_MD](https://www.chrsmrrs.com/graphkerneldatasets/BZR_MD.zip)|
-|**COX2**|[7]| 467 |2|41.22 |43.45|+|--|+ (3)|--|[COX2](https://www.chrsmrrs.com/graphkerneldatasets/COX2.zip)|
-|**COX2_MD**|[7,23]| 303 |2|26.28|335.12|+|+|--|+ (1)|[COX2_MD](https://www.chrsmrrs.com/graphkerneldatasets/COX2_MD.zip)|
-|**DHFR**|[7]| 467 |2|42.43|44.54|+|--|+ (3)|--|[DHFR](https://www.chrsmrrs.com/graphkerneldatasets/DHFR.zip)|
-|**DHFR_MD**|[7,23]| 393 |2|23.87| 283.01|+|+|--|+ (1)|[DHFR_MD](https://www.chrsmrrs.com/graphkerneldatasets/DHFR_MD.zip)|
-|**ER_MD**|[7,23]| 446 |2| 21.33| 234.85 | +|+|--|+ (1)|[ER_MD](https://www.chrsmrrs.com/graphkerneldatasets/ER_MD.zip)|
 |**DD**|[6,22]| 1178 |2|284.32| 715.66|+|--|--|--|[DD](https://www.chrsmrrs.com/graphkerneldatasets/DD.zip)|
 |**ENZYMES**|[4,5]| 600 |6|32.63 | 62.14|+|--|+ (18)|--|[ENZYMES](http://www.chrsmrrs.com/graphkerneldatasets/ENZYMES.zip)|
 |**KKI**|[26]|83|2 |26.96|48.42|+|--|--|--|[KKI](https://www.chrsmrrs.com/graphkerneldatasets/KKI.zip)|
