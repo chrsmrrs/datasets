@@ -10,7 +10,7 @@ permalink: /docs/datasets/
 |         |          |*Graphs*|*Classes*|*Avg. Nodes*|*Avg. Edges*|*Node Labels*|*Edge Labels*|*Node Attr.*|*Edge Attr.*|
 | --- |--- | --- |---|---| ---|  :---:| :---:| :---: | :---: | --- |
 |**AIDS**|[16,17]| 2000 |2|15.69|16.20|+|+|+ (4)|--|[AIDS](https://www.chrsmrrs.com/graphkerneldatasets/AIDS.zip)|
-|**alchemy_full**|[29]| 202579 | R (12)|10.10|10.44|+|+|+ (3) ![Coordinates](/assets/img/coord.png) ![Rotation-invariant task](/assets/img/rotate.png)|--|[alchemy_full](https://www.chrsmrrs.com/graphkerneldatasets/alchemy_full.zip)|
+|**alchemy_full**|[29]| 202579 | R (12)|10.10|10.44|+|+|+ (3) ![Coordinates](/assets/img/coord.png) ![Rotation-invariant task](_docs/assets/img/rotate.png)|--|[alchemy_full](https://www.chrsmrrs.com/graphkerneldatasets/alchemy_full.zip)|
 |**BZR**|[7]| 405 |2|35.75|38.36|+|--|+ (3) ![Coordinates](coord.png) ![Rotation-invariant task](rotate.png)|--|[BZR](https://www.chrsmrrs.com/graphkerneldatasets/BZR.zip)|
 |**BZR_MD**|[7,23]| 306 |2|21.30|225.06|+|+|--|+ (1)|[BZR_MD](https://www.chrsmrrs.com/graphkerneldatasets/BZR_MD.zip)|
 |**COX2**|[7]| 467 |2|41.22 |43.45|+|--|+ (3) ![Coordinates](coord.png) ![Rotation-invariant task](rotate.png)|--|[COX2](https://www.chrsmrrs.com/graphkerneldatasets/COX2.zip)|
