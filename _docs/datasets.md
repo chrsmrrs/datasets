@@ -172,6 +172,6 @@ permalink: /docs/datasets/
 
 R(N) are regression datasets with N tasks per graph.
 
-|![Coordinates](https://chrsmrrs.github.io/datasets/assets/img/coord.png) attributes contain 2D or 3D coordinates.
+![Coordinates](https://chrsmrrs.github.io/datasets/assets/img/coord.png) attributes contain 2D or 3D coordinates.
 
 ![Rotation-invariant task](https://chrsmrrs.github.io/datasets/assets/img/rotate.png) task does not depend on rotation and translation.
