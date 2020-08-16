@@ -12,9 +12,9 @@ permalink: /docs/datasets/
 |**AIDS**|[16,17]| 2000 |2|15.69|16.20|+|+|+ (4)|--|--|[AIDS](https://www.chrsmrrs.com/graphkerneldatasets/AIDS.zip)|
 |**alchemy_full**|[29]| 202579 | R (12)|10.10|10.44|+|+|+ (3)|![Coordinates](https://chrsmrrs.github.io/datasets/assets/img/coord.png) ![Rotation-invariant task](https://chrsmrrs.github.io/datasets/assets/img/rotate.png)|--|[alchemy_full](https://www.chrsmrrs.com/graphkerneldatasets/alchemy_full.zip)|
 |**BZR**|[7]| 405 |2|35.75|38.36|+|--|+ (3)|![Coordinates](https://chrsmrrs.github.io/datasets/assets/img/coord.png) ![Rotation-invariant task](https://chrsmrrs.github.io/datasets/assets/img/rotate.png)|--|[BZR](https://www.chrsmrrs.com/graphkerneldatasets/BZR.zip)|
-|**BZR_MD**|[7,23]| 306 |2|21.30|225.06|+|+|--|+ (1)|--|[BZR_MD](https://www.chrsmrrs.com/graphkerneldatasets/BZR_MD.zip)|
+|**BZR_MD**|[7,23]| 306 |2|21.30|225.06|+|+|--|--|+ (1)|[BZR_MD](https://www.chrsmrrs.com/graphkerneldatasets/BZR_MD.zip)|
 |**COX2**|[7]| 467 |2|41.22 |43.45|+|--|+ (3)|![Coordinates](https://chrsmrrs.github.io/datasets/assets/img/coord.png) ![Rotation-invariant task](https://chrsmrrs.github.io/datasets/assets/img/rotate.png)|--|[COX2](https://www.chrsmrrs.com/graphkerneldatasets/COX2.zip)|
-|**COX2_MD**|[7,23]| 303 |2|26.28|335.12|+|+|--|+ (1)|--|[COX2_MD](https://www.chrsmrrs.com/graphkerneldatasets/COX2_MD.zip)|
+|**COX2_MD**|[7,23]| 303 |2|26.28|335.12|+|+|--|--|+ (1)|[COX2_MD](https://www.chrsmrrs.com/graphkerneldatasets/COX2_MD.zip)|
 |**DHFR**|[7]| 467 |2|42.43|44.54|+|--|+ (3)|![Coordinates](https://chrsmrrs.github.io/datasets/assets/img/coord.png) ![Rotation-invariant task](https://chrsmrrs.github.io/datasets/assets/img/rotate.png)|--|[DHFR](https://www.chrsmrrs.com/graphkerneldatasets/DHFR.zip)|
 |**DHFR_MD**|[7,23]| 393 |2|23.87| 283.01|+|+|--|--|+ (1)|[DHFR_MD](https://www.chrsmrrs.com/graphkerneldatasets/DHFR_MD.zip)|
 |**ER_MD**|[7,23]| 446 |2| 21.33| 234.85 | +|+|--|--|+ (1)|[ER_MD](https://www.chrsmrrs.com/graphkerneldatasets/ER_MD.zip)|
