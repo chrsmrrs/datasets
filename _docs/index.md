@@ -30,8 +30,9 @@ If you have used the datasets for your publication, please refer to [graphlearni
     author={Christopher Morris and Nils M. Kriege and Franka Bause and Kristian Kersting and Petra Mutzel and Marion Neumann},
     booktitle={ICML 2020 Workshop on Graph Representation Learning and Beyond (GRL+ 2020)},
     pages={},
-    url={https://arxiv.org/abs/2007.08663}
-    url={www.graphlearning.io}
+    archivePrefix = {arXiv},
+    eprint = {2007.08663},
+    url={www.graphlearning.io},
     year={2020}
 }
 ```
