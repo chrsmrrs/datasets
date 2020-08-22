@@ -29,7 +29,6 @@ If you have used the datasets for your publication, please refer to [graphlearni
     title={TUDataset: A collection of benchmark datasets for learning with graphs},
     author={Christopher Morris and Nils M. Kriege and Franka Bause and Kristian Kersting and Petra Mutzel and Marion Neumann},
     booktitle={ICML 2020 Workshop on Graph Representation Learning and Beyond (GRL+ 2020)},
-    pages={},
     archivePrefix = {arXiv},
     eprint = {2007.08663},
     url={www.graphlearning.io},
