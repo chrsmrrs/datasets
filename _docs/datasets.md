@@ -11,6 +11,8 @@ permalink: /docs/datasets/
 | --- |--- | --- |---|---| ---|  :---:| :---:| :---: | :---: |  :---:|  --- |
 |**AIDS**|[16,17]| 2000 |2|15.69|16.20|+|+|+ (4)|--|--|[AIDS](https://www.chrsmrrs.com/graphkerneldatasets/AIDS.zip)|
 |**alchemy_full**|[29]| 202579 | R (12)|10.10|10.44|+|+|+ (3)|3D, RI|--|[alchemy_full](https://www.chrsmrrs.com/graphkerneldatasets/alchemy_full.zip)|
+|**aspirin**|[36]| 111763 |R (1)|21.00|151.52|+|--|+ (6)|3D, RI|--|[aspirin](https://www.chrsmrrs.com/graphkerneldatasets/aspirin.zip)|
+|**benzene**|[36]| 527984 |R (1)|12.00|64.94|+|--|+ (6)|3D, RI|--|[benzene](https://www.chrsmrrs.com/graphkerneldatasets/benzene.zip)|
 |**BZR**|[7]| 405 |2|35.75|38.36|+|--|+ (3)|3D, RI|--|[BZR](https://www.chrsmrrs.com/graphkerneldatasets/BZR.zip)|
 |**BZR_MD**|[7,23]| 306 |2|21.30|225.06|+|+|--|--|+ (1)|[BZR_MD](https://www.chrsmrrs.com/graphkerneldatasets/BZR_MD.zip)|
 |**COX2**|[7]| 467 |2|41.22 |43.45|+|--|+ (3)|3D, RI|--|[COX2](https://www.chrsmrrs.com/graphkerneldatasets/COX2.zip)|
@@ -18,13 +20,16 @@ permalink: /docs/datasets/
 |**DHFR**|[7]| 467 |2|42.43|44.54|+|--|+ (3)|3D, RI|--|[DHFR](https://www.chrsmrrs.com/graphkerneldatasets/DHFR.zip)|
 |**DHFR_MD**|[7,23]| 393 |2|23.87| 283.01|+|+|--|--|+ (1)|[DHFR_MD](https://www.chrsmrrs.com/graphkerneldatasets/DHFR_MD.zip)|
 |**ER_MD**|[7,23]| 446 |2| 21.33| 234.85 | +|+|--|--|+ (1)|[ER_MD](https://www.chrsmrrs.com/graphkerneldatasets/ER_MD.zip)|
+|**ethanol**|[36]| 455093 |R (1)|9.00|36.00|+|--|+ (6)|3D, RI|--|[ethanol](https://www.chrsmrrs.com/graphkerneldatasets/ethanol.zip)|
 |**FRANKENSTEIN**|[15]| 4337 | 2 |16.90| 17.88 |--|--|+ (780)|--|--|[FRANKENSTEIN](https://www.chrsmrrs.com/graphkerneldatasets/FRANKENSTEIN.zip)|
+|**malonaldehyde**|[36]| 893238 |R (1)|9.00|36.00|+|--|+ (6)|3D, RI|--|[malonaldehyde](https://www.chrsmrrs.com/graphkerneldatasets/malonaldehyde.zip)|
 |**MCF-7**|[28]| 27770 |2|26.39| 28.52 |+|+|--|--|--|[MCF-7](https://www.chrsmrrs.com/graphkerneldatasets/MCF-7.zip)|
 |**MCF-7H**|[28]| 27770 |2|47.30| 49.43 |+|+|--|--|--|[MCF-7H](https://www.chrsmrrs.com/graphkerneldatasets/MCF-7H.zip)|
 |**MOLT-4**|[28]| 39765 |2|26.09| 28.13 |+|+|--|--|--|[MOLT-4](https://www.chrsmrrs.com/graphkerneldatasets/MOLT-4.zip)|
 |**MOLT-4H**|[28]| 39765 |2|46.70| 48.73 |+|+|--|--|--|[MOLT-4H](https://www.chrsmrrs.com/graphkerneldatasets/MOLT-4H.zip)|
 |**Mutagenicity**|[16,20]| 4337 |2| 30.32 | 30.77 |+|+|--|--|--|[Mutagenicity](https://www.chrsmrrs.com/graphkerneldatasets/Mutagenicity.zip)|
 |**MUTAG**|[1,23]| 188 |2|17.93|19.79|+|+|--|--|--|[MUTAG](https://www.chrsmrrs.com/graphkerneldatasets/MUTAG.zip)|
+|**naphthalene**|[36]| 226256 |R (1)|18.00|127.37|+|--|+ (6)|3D, RI|--|[naphthalene](https://www.chrsmrrs.com/graphkerneldatasets/naphthalene.zip)|
 |**NCI1**|[8,9,22]| 4110 |2|29.87|32.30|+|--|--|--|--|[NCI1](https://www.chrsmrrs.com/graphkerneldatasets/NCI1.zip)|
 |**NCI109**|[8,9,22]| 4127 |2|29.68| 32.13 |+|--|--|--|--|[NCI109](https://www.chrsmrrs.com/graphkerneldatasets/NCI109.zip)|
 |**NCI-H23**|[28]| 40353 |2|26.07| 28.10 |+|+|--|--|--|[NCI-H23](https://www.chrsmrrs.com/graphkerneldatasets/NCI-H23.zip-H23)|
@@ -40,12 +45,14 @@ permalink: /docs/datasets/
 |**PTC_MM**|[2,23]| 336 |2|13.97 | 14.32|+|+|--|--|--|[PTC_MM](https://www.chrsmrrs.com/graphkerneldatasets/PTC_MM.zip)|
 |**PTC_MR**|[2,23]| 344 |2|14.29| 14.69|+|+|--|--|--|[PTC_MR](https://www.chrsmrrs.com/graphkerneldatasets/PTC_MR.zip)|
 |**QM9**|[33,34,35]| 129433|R (19)|18.03|18.63|--|--|+ (16)|3D, RI|+ (4)|[QM9](https://www.chrsmrrs.com/graphkerneldatasets/QM9.zip)|
+|**salicylic_acid**|[36]| 220232 |R (1)|16.00|104.13|+|--|+ (6)|3D, RI|--|[salicylic_acid](https://www.chrsmrrs.com/graphkerneldatasets/salicylic_acid.zip)|
 |**SF-295**|[28]| 40271 |2|26.06| 28.08 |+|+|--|--|--|[SF-295](https://www.chrsmrrs.com/graphkerneldatasets/SF-295.zip)|
 |**SF-295H**|[28]| 40271 |2|46.65| 48.68 |+|+|--|--|--|[SF-295H](https://www.chrsmrrs.com/graphkerneldatasets/SF-295H.zip)|
 |**SN12C**|[28]| 40004 |2|26.08| 28.11 |+|+|--|--|--|[SN12C](https://www.chrsmrrs.com/graphkerneldatasets/SN12C.zip)|
 |**SN12CH**|[28]| 40004 |2|46.69| 48.71 |+|+|--|--|--|[SN12CH](https://www.chrsmrrs.com/graphkerneldatasets/SN12CH.zip)|
 |**SW-620**|[28]| 40532 |2|26.05| 28.08 |+|+|--|--|--|[SW-620](https://www.chrsmrrs.com/graphkerneldatasets/SW-620.zip)|
 |**SW-620H**|[28]| 40532 |2|46.62| 48.65 |+|+|--|--|--|[SW-620H](https://www.chrsmrrs.com/graphkerneldatasets/SW-620H.zip)|
+|**toluene**|[36]| 342791 |R (1)|15.00|96.15|+|--|+ (6)|3D, RI|--|[toluene](https://www.chrsmrrs.com/graphkerneldatasets/toluene.zip)|
 |**Tox21_AhR_training**|[24]|8169|2 |18.09|18.50|+|+|--|--|--|[Tox21_AhR_training](https://www.chrsmrrs.com/graphkerneldatasets/Tox21_AhR_training.zip)|
 |**Tox21_AhR_testing**|[24]|272|2 |22.13|23.05|+|+|--|--|--|[Tox21_AhR_testing](https://www.chrsmrrs.com/graphkerneldatasets/Tox21_AhR_testing.zip)|
 |**Tox21_AhR_evaluation**|[24]|607|2 |17.64|18.06|+|+|--|--|--|[Tox21_AhR_evaluation](https://www.chrsmrrs.com/graphkerneldatasets/Tox21_AhR_evaluation.zip)|
@@ -84,6 +91,7 @@ permalink: /docs/datasets/
 |**Tox21_PPAR-gamma_evaluation**|[24]|602|2 |17.38|17.77|+|+|--|--|--|[Tox21_PPAR-gamma_evaluation](https://www.chrsmrrs.com/graphkerneldatasets/Tox21_PPAR-gamma_evaluation.zip)|
 |**UACC257**|[28]| 39988 |2|26.09| 28.12 |+|+|--|--|--|[UACC257](https://www.chrsmrrs.com/graphkerneldatasets/UACC257.zip)|
 |**UACC257H**|[28]| 39988 |2|46.68| 48.71 |+|+|--|--|--|[UACC257H](https://www.chrsmrrs.com/graphkerneldatasets/UACC257H.zip)|
+|**uracil**|[36]| 133770 |R (1)|12.00|64.44|+|--|+ (6)|3D, RI|--|[uracil](https://www.chrsmrrs.com/graphkerneldatasets/uracil.zip)|
 |**Yeast**|[28]| 79601 |2|21.54| 22.84 |+|+|--|--|--|[Yeast](https://www.chrsmrrs.com/graphkerneldatasets/Yeast.zip)|
 |**YeastH**|[28]| 79601 |2|39.44| 40.74 |+|+|--|--|--|[YeastH](https://www.chrsmrrs.com/graphkerneldatasets/YeastH.zip)|
 |**ZINC_full**|[31]| 249456 |R (1)|23.14|24.91|+|+|--|--|--|[ZINC_full](https://www.chrsmrrs.com/graphkerneldatasets/ZINC_full.zip)|
