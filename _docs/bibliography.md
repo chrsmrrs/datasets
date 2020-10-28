@@ -91,4 +91,3 @@ Feb. 1996.
 
 [36]  Stefan Chmiela, Alexandre Tkatchenko, Huziel E. Sauceda, Igor Poltavsky, Kristof T. Schütt, Klaus-Robert Müller.
 [Machine Learning of Accurate Energy-Conserving Molecular Force Fields](https://arxiv.org/abs/1611.04678). Science Advances 3(5). 2017.
-
