@@ -89,3 +89,6 @@ Feb. 1996.
 [Quantum Chemistry Structures and Properties of 134 kilo Molecules](https://www.researchgate.net/publication/274256239_Quantum_chemistry_structures_and_properties_of_134_kilo_molecules), Scientific Data
 1: 140022, 2014.
 
+[36]  Stefan Chmiela, Alexandre Tkatchenko, Huziel E. Sauceda, Igor Poltavsky, Kristof T. Schütt, Klaus-Robert Müller.
+[Machine Learning of Accurate Energy-Conserving Molecular Force Fields](https://arxiv.org/abs/1611.04678). Science Advances 3(5). 2017.
+
