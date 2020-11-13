@@ -122,7 +122,7 @@ permalink: /docs/datasets/
 |**COIL-DEL**|[16,18]| 3900 |100| 21.54 | 54.24 |--|+|+ (2)|--|--|[COIL-DEL](https://www.chrsmrrs.com/graphkerneldatasets/COIL-DEL.zip)|
 |**COIL-RAG**|[16,18]| 3900 |100| 3.01 | 3.02 |--|--|+ (64)|--|+ (1)|[COIL-RAG](https://www.chrsmrrs.com/graphkerneldatasets/COIL-RAG.zip)|
 |**Cuneiform**|[25]| 267 |30|21.27|44.80|+|+|+ (3)|3D|+ (2)|[Cuneiform](https://www.chrsmrrs.com/graphkerneldatasets/Cuneiform.zip)|
-|**Fingerprint**|[16,19]| 2800 |4|5.42 | 4.42|--|--|+ (2)|2D|+ (2)|[Fingerprint](https://www.chrsmrrs.com/graphkerneldatasets/Fingerprint.zip)|
+|**Fingerprint**|[16,19]| 2800 |15|5.42 | 4.42|--|--|+ (2)|2D|+ (2)|[Fingerprint](https://www.chrsmrrs.com/graphkerneldatasets/Fingerprint.zip)|
 |**FIRSTMM_DB**|[11,12,13]| 41 |11|1377.27| 3074.10|+|--|+ (1)|--|+ (2)|[FIRSTMM_DB](https://www.chrsmrrs.com/graphkerneldatasets/FIRSTMM_DB.zip)|
 |**Letter-high**|[16]| 2250 |15| 4.67 |4.50 |--|--|+ (2)|2D|--|[Letter-high](https://www.chrsmrrs.com/graphkerneldatasets/Letter-high.zip)|
 |**Letter-low**|[16]| 2250 |15| 4.68 |3.13 |--|--|+ (2)|2D|--|[Letter-low](https://www.chrsmrrs.com/graphkerneldatasets/Letter-low.zip)|
