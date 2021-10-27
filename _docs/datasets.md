@@ -147,8 +147,8 @@ permalink: /docs/datasets/
 |**github_stargazers**|[30]| 12725 |2|113.79| 234.64 |--|--|--|--|--|[github_stargazers](https://www.chrsmrrs.com/graphkerneldatasets/github_stargazers.zip)|
 |**highschool_ct1**|[32]|180|2 |52.32|544.81|temporal|--|--|--|temporal|[highschool_ct1](https://www.chrsmrrs.com/graphkerneldatasets/highschool_ct1.zip)|
 |**highschool_ct2**|[32]|180|2 |52.32|544.81|temporal|--|--|--|temporal|[highschool_ct2](https://www.chrsmrrs.com/graphkerneldatasets/highschool_ct2.zip)|
-|**IMDB-BINARY**|[14]| 1000 |2| 19.77 | 96.53 |--|--|--||----|[IMDB-BINARY](https://www.chrsmrrs.com/graphkerneldatasets/IMDB-BINARY.zip)|
-|**IMDB-MULTI**|[14]| 1500 |3| 13.00 | 65.94 |--|--|--||----|[IMDB-MULTI](https://www.chrsmrrs.com/graphkerneldatasets/IMDB-MULTI.zip)|
+|**IMDB-BINARY**|[14]| 1000 |2| 19.77 | 96.53 |--|--|--|--|--|[IMDB-BINARY](https://www.chrsmrrs.com/graphkerneldatasets/IMDB-BINARY.zip)|
+|**IMDB-MULTI**|[14]| 1500 |3| 13.00 | 65.94 |--|--|--|--|--|[IMDB-MULTI](https://www.chrsmrrs.com/graphkerneldatasets/IMDB-MULTI.zip)|
 |**infectious_ct1**|[32]|200|2 |50|459.72|temporal|--|--|--|temporal|[infectious_ct1](https://www.chrsmrrs.com/graphkerneldatasets/infectious_ct1.zip)|
 |**infectious_ct2**|[32]|200|2 |50|459.72|temporal|--|--|--|temporal|[infectious_ct2](https://www.chrsmrrs.com/graphkerneldatasets/infectious_ct2.zip)|
 |**mit_ct1**|[32]|97|2 |20|1469.15|temporal|--|--|--|temporal|[mit_ct1](https://www.chrsmrrs.com/graphkerneldatasets/mit_ct1.zip)|
