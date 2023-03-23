@@ -169,7 +169,7 @@ permalink: /docs/datasets/
 |         |          |*Graphs*|*Classes*|*Avg. Nodes*|*Avg. Edges*|*Node Labels*|*Edge Labels*|*Node Attr.*|*Geometry*|*Edge Attr.*|
 | --- |--- | --- |---|---| ---|  :---:| :---:| :---: | :---: |  :---:|  --- |
 |**COLORS-3**|[27]|10500|11|61.31|91.03|--|--|+ (4)|--|--|[COLORS-3](https://www.chrsmrrs.com/graphkerneldatasets/COLORS-3.zip)|
-|**SYNTHETIC**|[3]| 300 |2|100.00| 196.00|--|--|+ (1)|--|--|[SYNTHETIC](https://www.chrsmrrs.com/graphkerneldatasets/SYNTHETIC.zip)|
+|**SYNTHETIC**|[3]| 300 |2|100.00| 196.00|+|--|+ (1)|--|--|[SYNTHETIC](https://www.chrsmrrs.com/graphkerneldatasets/SYNTHETIC.zip)|
 |**SYNTHETICnew**|[3,10]| 300 |2|100.00| 196.25|--|--|+ (1)|--|--|[SYNTHETICnew](https://www.chrsmrrs.com/graphkerneldatasets/SYNTHETICnew.zip)|
 |**Synthie**|[21]| 400 |4|95.00| 172.93|--|--|+ (15)|--|--|[Synthie](https://www.chrsmrrs.com/graphkerneldatasets/Synthie.zip)|
 |**TRIANGLES**|[27]|45000|10|20.85|32.74|--|--|--|--|--|[TRIANGLES](https://www.chrsmrrs.com/graphkerneldatasets/TRIANGLES.zip)|
