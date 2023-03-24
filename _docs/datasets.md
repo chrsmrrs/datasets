@@ -32,10 +32,10 @@ permalink: /docs/datasets/
 |**naphthalene**|[36]| 226256 |R (1)|18.00|127.37|+|--|+ (6)|3D, RI|--|[naphthalene](https://www.chrsmrrs.com/graphkerneldatasets/naphthalene.zip)|
 |**NCI1**|[8,9,22]| 4110 |2|29.87|32.30|+|--|--|--|--|[NCI1](https://www.chrsmrrs.com/graphkerneldatasets/NCI1.zip)|
 |**NCI109**|[8,9,22]| 4127 |2|29.68| 32.13 |+|--|--|--|--|[NCI109](https://www.chrsmrrs.com/graphkerneldatasets/NCI109.zip)|
-|**NCI-H23**|[28]| 40353 |2|26.07| 28.10 |+|+|--|--|--|[NCI-H23](https://www.chrsmrrs.com/graphkerneldatasets/NCI-H23.zip-H23)|
-|**NCI-H23H**|[28]| 40353 |2|46.67| 48.69 |+|+|--|--|--|[NCI-H23H](https://www.chrsmrrs.com/graphkerneldatasets/NCI-H23H.zip-H23H)|
-|**OVCAR-8**|[28]| 40516 |2|26.07| 28.10 |+|+|--|--|--|[OVCAR-8](https://www.chrsmrrs.com/graphkerneldatasets/OVCAR-8.zip-8)|
-|**OVCAR-8H**|[28]| 40516 |2|46.67| 48.70 |+|+|--|--|--|[OVCAR-8H](https://www.chrsmrrs.com/graphkerneldatasets/OVCAR-8H.zip-8H)|
+|**NCI-H23**|[28]| 40353 |2|26.07| 28.10 |+|+|--|--|--|[NCI-H23](https://www.chrsmrrs.com/graphkerneldatasets/NCI-H23.zip)|
+|**NCI-H23H**|[28]| 40353 |2|46.67| 48.69 |+|+|--|--|--|[NCI-H23H](https://www.chrsmrrs.com/graphkerneldatasets/NCI-H23H.zip)|
+|**OVCAR-8**|[28]| 40516 |2|26.07| 28.10 |+|+|--|--|--|[OVCAR-8](https://www.chrsmrrs.com/graphkerneldatasets/OVCAR-8.zip)|
+|**OVCAR-8H**|[28]| 40516 |2|46.67| 48.70 |+|+|--|--|--|[OVCAR-8H](https://www.chrsmrrs.com/graphkerneldatasets/OVCAR-8H.zip)|
 |**P388**|[28]| 41472 |2|22.11| 23.55 |+|+|--|--|--|[P388](https://www.chrsmrrs.com/graphkerneldatasets/P388.zip)|
 |**P388H**|[28]| 41472 |2|40.44| 41.88 |+|+|--|--|--|[P388H](https://www.chrsmrrs.com/graphkerneldatasets/P388H.zip)|
 |**PC-3**|[28]| 27509 |2|26.35| 28.49 |+|+|--|--|--|[PC-3](https://www.chrsmrrs.com/graphkerneldatasets/PC-3.zip)|
@@ -106,7 +106,7 @@ permalink: /docs/datasets/
 |         |          |*Graphs*|*Classes*|*Avg. Nodes*|*Avg. Edges*|*Node Labels*|*Edge Labels*|*Node Attr.*|*Geometry*|*Edge Attr.*|
 | --- |--- | --- |---|---| ---|  :---:| :---:| :---: | :---: |  :---:|  --- |
 |**DD**|[6,22]| 1178 |2|284.32| 715.66|+|--|--|--|--|[DD](https://www.chrsmrrs.com/graphkerneldatasets/DD.zip)|
-|**ENZYMES**|[4,5]| 600 |6|32.63 | 62.14|+|--|+ (18)|--|--|[ENZYMES](http://www.chrsmrrs.com/graphkerneldatasets/ENZYMES.zip)|
+|**ENZYMES**|[4,5]| 600 |6|32.63 | 62.14|+|--|+ (18)|--|--|[ENZYMES](https://www.chrsmrrs.com/graphkerneldatasets/ENZYMES.zip)|
 |**KKI**|[26]|83|2 |26.96|48.42|+|--|--|--|--|[KKI](https://www.chrsmrrs.com/graphkerneldatasets/KKI.zip)|
 |**OHSU**|[26]|79|2 |82.01|199.66|+|--|--|--|--|[OHSU](https://www.chrsmrrs.com/graphkerneldatasets/OHSU.zip)|
 |**Peking_1**|[26]|85|2 |39.31|77.35|+|--|--|--|--|[Peking_1](https://www.chrsmrrs.com/graphkerneldatasets/Peking_1.zip)|
@@ -169,7 +169,7 @@ permalink: /docs/datasets/
 |         |          |*Graphs*|*Classes*|*Avg. Nodes*|*Avg. Edges*|*Node Labels*|*Edge Labels*|*Node Attr.*|*Geometry*|*Edge Attr.*|
 | --- |--- | --- |---|---| ---|  :---:| :---:| :---: | :---: |  :---:|  --- |
 |**COLORS-3**|[27]|10500|11|61.31|91.03|--|--|+ (4)|--|--|[COLORS-3](https://www.chrsmrrs.com/graphkerneldatasets/COLORS-3.zip)|
-|**SYNTHETIC**|[3]| 300 |2|100.00| 196.00|--|--|+ (1)|--|--|[SYNTHETIC](https://www.chrsmrrs.com/graphkerneldatasets/SYNTHETIC.zip)|
+|**SYNTHETIC**|[3]| 300 |2|100.00| 196.00|+|--|+ (1)|--|--|[SYNTHETIC](https://www.chrsmrrs.com/graphkerneldatasets/SYNTHETIC.zip)|
 |**SYNTHETICnew**|[3,10]| 300 |2|100.00| 196.25|--|--|+ (1)|--|--|[SYNTHETICnew](https://www.chrsmrrs.com/graphkerneldatasets/SYNTHETICnew.zip)|
 |**Synthie**|[21]| 400 |4|95.00| 172.93|--|--|+ (15)|--|--|[Synthie](https://www.chrsmrrs.com/graphkerneldatasets/Synthie.zip)|
 |**TRIANGLES**|[27]|45000|10|20.85|32.74|--|--|--|--|--|[TRIANGLES](https://www.chrsmrrs.com/graphkerneldatasets/TRIANGLES.zip)|
