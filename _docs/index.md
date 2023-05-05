@@ -5,7 +5,7 @@ redirect_from: /docs/index.html
 ---
 ## News
 
-* **05.05.2023:** Thanks, to Julian Kunze from UCL a couple of bugs where fixed, e.g., representing the ZINC datasets as undirected graphs and correcting some graph statistics. Thanks Julian!
+* **05.05.2023:** Thanks to Julian Kunze from UCL a couple of bugs where fixed, e.g., representing the ZINC datasets as undirected graphs and correcting some graph statistics. Thanks Julian!
 * **28.10.2020:** Added eight new datasets from [36]. 
 * **30.03.2020:** Added three new datasets from [31]. Thanks Xavier!
 * **24.03.2020:** Added four new datasets from [30]. Thanks Benedek!
