@@ -145,14 +145,14 @@ permalink: /docs/datasets/
 |**facebook_ct1**|[32]|995|2 |95.72|101.72|temporal|--|--|--|temporal|[facebook_ct1](https://www.chrsmrrs.com/graphkerneldatasets/facebook_ct1.zip)|
 |**facebook_ct2**|[32]|995|2 |95.72|101.72|temporal|--|--|--|temporal|[facebook_ct2](https://www.chrsmrrs.com/graphkerneldatasets/facebook_ct2.zip)|
 |**github_stargazers**|[30]| 12725 |2|113.79| 234.64 |--|--|--|--|--|[github_stargazers](https://www.chrsmrrs.com/graphkerneldatasets/github_stargazers.zip)|
-|**highschool_ct1**|[32]|180|2 |52.32|112.08|temporal|--|--|--|temporal|[highschool_ct1](https://www.chrsmrrs.com/graphkerneldatasets/highschool_ct1.zip)|
-|**highschool_ct2**|[32]|180|2 |52.32|112.08|temporal|--|--|--|temporal|[highschool_ct2](https://www.chrsmrrs.com/graphkerneldatasets/highschool_ct2.zip)|
-|**IMDB-BINARY**|[14]| 1000 |2| 19.77 | 96.53 |--|--|--||----|[IMDB-BINARY](https://www.chrsmrrs.com/graphkerneldatasets/IMDB-BINARY.zip)|
-|**IMDB-MULTI**|[14]| 1500 |3| 13.00 | 65.94 |--|--|--||----|[IMDB-MULTI](https://www.chrsmrrs.com/graphkerneldatasets/IMDB-MULTI.zip)|
-|**infectious_ct1**|[32]|200|2 |50|125.98|temporal|--|--|--|temporal|[infectious_ct1](https://www.chrsmrrs.com/graphkerneldatasets/infectious_ct1.zip)|
-|**infectious_ct2**|[32]|200|2 |50|125.98|temporal|--|--|--|temporal|[infectious_ct2](https://www.chrsmrrs.com/graphkerneldatasets/infectious_ct2.zip)|
-|**mit_ct1**|[32]|97|2 |20|36.61|temporal|--|--|--|temporal|[mit_ct1](https://www.chrsmrrs.com/graphkerneldatasets/mit_ct1.zip)|
-|**mit_ct2**|[32]|97|2 |20|36.61|temporal|--|--|--|temporal|[mit_ct2](https://www.chrsmrrs.com/graphkerneldatasets/mit_ct2.zip)|
+|**highschool_ct1**|[32]|180|2 |52.32|544.81|temporal|--|--|--|temporal|[highschool_ct1](https://www.chrsmrrs.com/graphkerneldatasets/highschool_ct1.zip)|
+|**highschool_ct2**|[32]|180|2 |52.32|544.81|temporal|--|--|--|temporal|[highschool_ct2](https://www.chrsmrrs.com/graphkerneldatasets/highschool_ct2.zip)|
+|**IMDB-BINARY**|[14]| 1000 |2| 19.77 | 96.53 |--|--|--|--|--|[IMDB-BINARY](https://www.chrsmrrs.com/graphkerneldatasets/IMDB-BINARY.zip)|
+|**IMDB-MULTI**|[14]| 1500 |3| 13.00 | 65.94 |--|--|--|--|--|[IMDB-MULTI](https://www.chrsmrrs.com/graphkerneldatasets/IMDB-MULTI.zip)|
+|**infectious_ct1**|[32]|200|2 |50|459.72|temporal|--|--|--|temporal|[infectious_ct1](https://www.chrsmrrs.com/graphkerneldatasets/infectious_ct1.zip)|
+|**infectious_ct2**|[32]|200|2 |50|459.72|temporal|--|--|--|temporal|[infectious_ct2](https://www.chrsmrrs.com/graphkerneldatasets/infectious_ct2.zip)|
+|**mit_ct1**|[32]|97|2 |20|1469.15|temporal|--|--|--|temporal|[mit_ct1](https://www.chrsmrrs.com/graphkerneldatasets/mit_ct1.zip)|
+|**mit_ct2**|[32]|97|2 |20|1469.15|temporal|--|--|--|temporal|[mit_ct2](https://www.chrsmrrs.com/graphkerneldatasets/mit_ct2.zip)|
 |**REDDIT-BINARY**|[14]| 2000 |2| 429.63| 497.75 |--|--|--|--|--|[REDDIT-BINARY](https://www.chrsmrrs.com/graphkerneldatasets/REDDIT-BINARY.zip)|
 |**REDDIT-MULTI-5K**|[14]| 4999 | 5 |508.52 | 594.87 |--|--|--|--|--|[REDDIT-MULTI-5K](https://www.chrsmrrs.com/graphkerneldatasets/REDDIT-MULTI-5K.zip)|
 |**REDDIT-MULTI-12K**|[14]| 11929 | 11 | 391.41 | 456.89 |--|--|--|--|--|[REDDIT-MULTI-12K](https://www.chrsmrrs.com/graphkerneldatasets/REDDIT-MULTI-12K.zip)|
