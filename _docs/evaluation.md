@@ -11,10 +11,10 @@ Throughout this tutorial, we assume that your base directory is `tudataset/tud_b
 ### Kernel baselines and 10-CV using SVMs
 
 We provide  Python-wrapped C++ implementations of the following kernels:
-- Weisfeiler-Lehman subtree kernel (1-WL) [1],
-- Graphlet kernel (GR) [2],
-- Shortest-path kernel (SP) [3],
-- Weisfeiler-Lehman optimal assignment kernel (WL-OA) [4]
+- Weisfeiler-Lehman subtree kernel (1-WL) [[1]](#ref-1)
+- Graphlet kernel (GR) [[2]](#ref-2)
+- Shortest-path kernel (SP) [[3]](#ref-3)
+- Weisfeiler-Lehman optimal assignment kernel (WL-OA) [[4]](#ref-4)
 
 
 For the  first three kernels, we provide, both, Gram matrix output (`numpy.array`, `[n,n]`) and sparse feature vector output (`scipy.sparse.csr_matrix`, `[n,d]`).
@@ -111,7 +111,7 @@ See `main_kernel.py` for more examples.
 
 ### GNNs baselines and 10-CV evaluation
 
-Here, we show how to optimize the hyperparameters (number of layers  in `{1,2,3,4,5}`, hidden dimension `{32,64,128}`) of the `GIN` layer [5] using 10-CV.
+Here, we show how to optimize the hyperparameters (number of layers  in `{1,2,3,4,5}`, hidden dimension `{32,64,128}`) of the `GIN` layer [[5]](#ref-5) using 10-CV.
 We set the maximum number of epochs to `200`, the batch size to `64`, the starting learing rate to `0.01`, and the number of repetitions of the 10-CV to `10`.
 
 ```python
