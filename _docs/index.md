@@ -24,9 +24,10 @@ redirect_from: /docs/index.html
 
 
 ## Citing this Website
+
 If you have used the datasets for your publication, please refer to [graphlearning.io](http://www.graphlearning.io/) and cite the TUDataset paper:
 
-```
+```text
 @inproceedings{Morris+2020,
     title={TUDataset: A collection of benchmark datasets for learning with graphs},
     author={Christopher Morris and Nils M. Kriege and Franka Bause and Kristian Kersting and Petra Mutzel and Marion Neumann},
@@ -37,6 +38,5 @@ If you have used the datasets for your publication, please refer to [graphlearni
     year={2020}
 }
 ```
-
 
 **Please do not forget to cite the original paper when using a specific dataset.**

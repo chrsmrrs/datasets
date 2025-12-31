@@ -3,8 +3,6 @@ title: File Format
 permalink: /docs/format/
 ---
 
-
-
 The data sets have the following format (replace `DS` by the name of the data set):
 
 Let
