@@ -156,11 +156,16 @@ TODO: Add details on how to access label information.
 ### Bibliograpphy
 
 [1] [1-WL kernel paper](http://www.jmlr.org/papers/volume12/shervashidze11a/shervashidze11a.pdf)
+{: #ref-1 }
 
 [2] [Graphlet kernel paper](http://proceedings.mlr.press/v5/shervashidze09a/shervashidze09a.pdf)
+{: #ref-2 }
 
 [3] [Shortest-path kernel paper](https://ieeexplore.ieee.org/document/1565664)
+{: #ref-3 }
 
 [4] [WL-OA kernel paper](https://papers.nips.cc/paper/6166-on-valid-optimal-assignment-kernels-and-applications-to-graph-classification.pdf)
+{: #ref-4 }
 
 [5] [GIN paper](https://openreview.net/forum?id=ryGs6iA5Km)
+{: #ref-5 }
