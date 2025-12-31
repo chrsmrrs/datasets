@@ -174,8 +174,8 @@ permalink: /docs/datasets/
 | **Synthie** | [21] | 400 | 4 | 95.00 | 172.93 | -- | -- | + (15) | -- | -- | [Synthie](https://www.chrsmrrs.com/graphkerneldatasets/Synthie.zip) |
 | **TRIANGLES** | [27] | 45000 | 10 | 20.85 | 32.74 | -- | -- | -- | -- | -- | [TRIANGLES](https://www.chrsmrrs.com/graphkerneldatasets/TRIANGLES.zip) |
 
-R(N) are regression datasets with N tasks per graph.
+**Notes**:
 
-2D/3D -- attributes contain 2D or 3D coordinates.
-
-RI -- task does not depend on rotation and translation.
+- 2D/3D: Attributes that include 2D or 3D coordinates.
+- R(N): Regression datasets with `N` tasks (targets) per graph.
+- RI: Tasks are invariant to global rotation and translation.
