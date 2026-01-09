@@ -152,7 +152,7 @@ dp.get_dataset(dataset)
 accuracy, std_10, std_100 = gnn_evaluation(GINE, dataset, [1, 2, 3, 4, 5], [32, 64, 128], max_num_epochs=200, batch_size=64, start_lr=0.01, num_repetitions=num_reps, all_std=True)
 ```
 
-See `main_gnn.py` for more examples. More compatible GNN layers are available from [Pytorch Geometric](https://github.com/rusty1s/pytorch_geometric/tree/master/benchmark/kernel).
+See `main_gnn.py` for more examples. More compatible GNN layers are available from [PyTorch Geometric](https://github.com/pyg-team/pytorch_geometric/tree/master/benchmark/kernel).
 
 ### Loading the graphs as NetworkX graphs
 
@@ -171,16 +171,16 @@ TODO: Add details on how to access label information.
 
 ### Bibliograpphy
 
-[1] [1-WL kernel paper](http://www.jmlr.org/papers/volume12/shervashidze11a/shervashidze11a.pdf)
+[1] [1-WL kernel paper](https://www.jmlr.org/papers/volume12/shervashidze11a/shervashidze11a.pdf)
 {: #ref-1 }
 
-[2] [Graphlet kernel paper](http://proceedings.mlr.press/v5/shervashidze09a/shervashidze09a.pdf)
+[2] [Graphlet kernel paper](https://proceedings.mlr.press/v5/shervashidze09a/shervashidze09a.pdf)
 {: #ref-2 }
 
-[3] [Shortest-path kernel paper](https://ieeexplore.ieee.org/document/1565664)
+[3] [Shortest-path kernel paper](https://doi.org/10.1109/ICDM.2005.132)
 {: #ref-3 }
 
-[4] [WL-OA kernel paper](https://papers.nips.cc/paper/6166-on-valid-optimal-assignment-kernels-and-applications-to-graph-classification.pdf)
+[4] [WL-OA kernel paper](https://proceedings.neurips.cc/paper_files/paper/2016/hash/0efe32849d230d7f53049ddc4a4b0c60-Abstract.html)
 {: #ref-4 }
 
 [5] [GIN paper](https://openreview.net/forum?id=ryGs6iA5Km)
